@@ -124,8 +124,8 @@ work_dirs/
 *.sh~
 
 # info
-clean/*.txt
-clean/my_data/*.txt
+*.txt
+!*requirements.txt
 *.npy
 *.out
 *.png
