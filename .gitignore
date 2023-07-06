@@ -128,4 +128,6 @@ clean/*.txt
 clean/my_data/*.txt
 *.npy
 *.out
+*.png
+*.jpg
 
