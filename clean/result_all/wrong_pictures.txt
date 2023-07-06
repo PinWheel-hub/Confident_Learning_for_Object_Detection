@@ -1,0 +1,339 @@
+/home/wubw/voc-tire-fbb/testfiles/test_png/F811390415_6132.png: 5 0 [129. 458. 279. 653.] 0.7480013966560364
+/home/wubw/voc-tire-fbb/testfiles/test_png/F811390415_6725.png: 5 0 [129. 178. 279. 372.] 0.7419370412826538
+/home/wubw/voc-tire-fbb/testfiles/test_png/G811439965_18876.png: 1 0 [ 65. 758. 235. 815.] 0.6157557964324951
+/home/wubw/voc-tire-fbb/testfiles/test_png/D811175331_6245.png: 0 2 [635.  -1. 785.  92.] 0.4195006191730499, 0 2 [301.  -1. 594. 113.] 0.6398378014564514
+/home/wubw/voc-tire-fbb/testfiles/test_png/G811439965_20174.png: 1 0 [ 65. 143. 235. 200.] 0.6347887516021729
+/home/wubw/voc-tire-fbb/testfiles/test_png/G811439965_20342.png: 1 0 [ 65.  63. 235. 120.] 0.6015447974205017
+/home/wubw/voc-tire-fbb/testfiles/test_png/G811439965_19830.png: 1 0 [ 65. 306. 235. 363.] 0.6548053026199341
+/home/wubw/voc-tire-fbb/testfiles/test_png/G811439965_19019.png: 1 0 [ 65. 690. 235. 747.] 0.6528981328010559
+/home/wubw/voc-tire-fbb/testfiles/test_png/I811145937_6349.png: 2 0 [681. 247. 785. 274.] 0.8193751573562622
+/home/wubw/voc-tire-fbb/testfiles/test_png/81_20180206_025616_13006.png: 5 0 [299. 206. 359. 282.] 0.9055356979370117, 5 0 [299. 319. 342. 366.] 0.6987766027450562
+/home/wubw/voc-tire-fbb/testfiles/test_png/I811145937_5483.png: 2 0 [681. 657. 785. 684.] 0.8109201788902283, B F [300.75 638.5  352.75 698.5 ] 0.49284578114748
+/home/wubw/voc-tire-fbb/testfiles/test_png/81_20180124_154450_2002.png: 5 0 [ 71. 435. 206. 541.] 0.7567663192749023
+/home/wubw/voc-tire-fbb/testfiles/test_png/81_20180206_025616_11844.png: 5 0 [299. 869. 342. 899.] 0.8281904458999634, 5 0 [299. 756. 359. 832.] 0.818653404712677
+/home/wubw/voc-tire-fbb/testfiles/test_png/81_20180124_154450_1937.png: 5 0 [ 71. 466. 206. 572.] 0.6692102551460266
+/home/wubw/voc-tire-fbb/testfiles/test_png/H811170321_4177.png: 9 5 [735. 568. 756. 806.] 0.4175143837928772
+/home/wubw/voc-tire-fbb/testfiles/test_png/81_20180206_025616_12493.png: 5 0 [299. 449. 359. 525.] 0.9007608890533447, 5 0 [299. 562. 342. 609.] 0.6468933820724487
+/home/wubw/voc-tire-fbb/testfiles/test_png/81_20180206_025616_13027.png: 5 0 [299. 196. 359. 272.] 0.866644024848938, 5 0 [299. 309. 342. 356.] 0.6389732360839844
+/home/wubw/voc-tire-fbb/testfiles/test_png/81_20180124_154450_2053.png: 5 0 [ 71. 411. 206. 517.] 0.7334967851638794
+/home/wubw/voc-tire-fbb/testfiles/test_png/I811569784_1579.png: 4 5 [123. 712. 167. 893.] 0.5933920741081238
+/home/wubw/voc-tire-fbb/testfiles/test_png/E811178049_719.png: 2 6 [299. 404. 368. 471.] 0.5473753809928894
+/home/wubw/voc-tire-fbb/testfiles/test_png/E811178049_249.png: 2 6 [299. 627. 368. 694.] 0.537675678730011, F B [555. 392. 572. 424.] 0
+/home/wubw/voc-tire-fbb/testfiles/test_png/E811178049_584.png: 2 6 [299. 468. 368. 535.] 0.5533562898635864
+/home/wubw/voc-tire-fbb/testfiles/test_png/I811333115_19360.png: 0 5 [654. 399. 752. 831.] 0.7334809899330139
+/home/wubw/voc-tire-fbb/testfiles/test_png/E811178049_702.png: 2 6 [299. 413. 368. 479.] 0.46061235666275024
+/home/wubw/voc-tire-fbb/testfiles/test_png/E811178049_284.png: 2 6 [299. 611. 368. 677.] 0.5058441758155823, F B [555. 376. 572. 408.] 0
+/home/wubw/voc-tire-fbb/testfiles/test_png/E811178049_1001.png: 2 6 [299. 271. 368. 338.] 0.47965294122695923, 0 6 [327. 658. 353. 684.] 0.5757158994674683
+/home/wubw/voc-tire-fbb/testfiles/test_png/E811178049_467.png: 2 6 [299. 524. 368. 591.] 0.4920984208583832
+/home/wubw/voc-tire-fbb/testfiles/test_png/E811178049_308.png: 2 6 [299. 599. 368. 666.] 0.48042431473731995
+/home/wubw/voc-tire-fbb/testfiles/test_png/E811178049_671.png: 2 6 [299. 427. 368. 494.] 0.5070193409919739
+/home/wubw/voc-tire-fbb/testfiles/test_png/H811629329_2_14232.png: 6 5 [782.  47. 800. 123.] 0.44603896141052246
+/home/wubw/voc-tire-fbb/testfiles/test_png/E811178049_1256.png: 2 6 [299. 150. 368. 217.] 0.6358169913291931, 0 6 [327. 537. 353. 563.] 0.5588823556900024
+/home/wubw/voc-tire-fbb/testfiles/test_png/E811178049_1265.png: 2 6 [299. 146. 368. 213.] 0.6155781149864197, 0 6 [327. 533. 353. 559.] 0.5381349325180054
+/home/wubw/voc-tire-fbb/testfiles/test_png/H811274598_2_8457.png: 6 5 [325. 287. 349. 648.] 0.7033251523971558
+/home/wubw/voc-tire-fbb/testfiles/test_png/E811178049_1539.png: 2 6 [299.  16. 368.  83.] 0.6584713459014893, 0 6 [327. 403. 353. 429.] 0.5414963364601135
+/home/wubw/voc-tire-fbb/testfiles/test_png/81_20180103_231336_12991.png: 2 4 [ 82. 369. 127. 590.] 0.6418048143386841
+/home/wubw/voc-tire-fbb/testfiles/test_png/I811333115_5485.png: 0 5 [621. 649. 752. 724.] 0.5369420051574707
+/home/wubw/voc-tire-fbb/testfiles/test_png/E811197050_3764.png: 5 0 [299.  11. 339.  29.] 0.7329213619232178, B F [102.4375  35.6875 243.625   62.125 ] 0.4886280298233032
+/home/wubw/voc-tire-fbb/testfiles/test_png/E811178049_6971.png: 0 6 [321. 840. 352. 871.] 0.4392894208431244
+/home/wubw/voc-tire-fbb/testfiles/test_png/E811217708_7611.png: 2 0 [665. 687. 756. 797.] 0.5303238034248352, 2 0 [667. 789. 733. 818.] 0.5303238034248352, B F [ 86.6875 762.     216.     876.    ] 0.5125295966863632
+/home/wubw/voc-tire-fbb/testfiles/test_png/E811217708_8909.png: 2 0 [665.  72. 756. 182.] 0.5370484590530396, B F [ 86.375 145.    215.125 270.25 ] 0.5496610030531883
+/home/wubw/voc-tire-fbb/testfiles/test_png/F811122614_6135.png: 2 0 [676. 359. 812. 463.] 0.8707244396209717
+/home/wubw/voc-tire-fbb/testfiles/test_png/I811333115_6658.png: 0 5 [621.  93. 752. 168.] 0.5249773263931274
+/home/wubw/voc-tire-fbb/testfiles/test_png/F811122614_6214.png: 2 0 [676. 322. 812. 425.] 0.839826762676239
+/home/wubw/voc-tire-fbb/testfiles/test_png/F811122614_6891.png: 2 0 [676.   1. 812. 105.] 0.889732301235199
+/home/wubw/voc-tire-fbb/testfiles/test_png/H811378120_19614.png: 0 2 [477. 347. 563. 379.] 0.46442243456840515
+/home/wubw/voc-tire-fbb/testfiles/test_png/H811274598_2_7769.png: 6 5 [325. 613. 349. 899.] 0.4996606707572937
+/home/wubw/voc-tire-fbb/testfiles/test_png/D811175331_5232.png: 0 2 [301. 420. 594. 593.] 0.5229788422584534
+/home/wubw/voc-tire-fbb/testfiles/test_png/D811175331_5297.png: 0 2 [301. 389. 594. 562.] 0.5444154739379883
+/home/wubw/voc-tire-fbb/testfiles/test_png/D811175331_5193.png: 0 2 [301. 439. 594. 611.] 0.6023581624031067
+/home/wubw/voc-tire-fbb/testfiles/test_png/E811178049_2135.png: 0 6 [327. 121. 353. 147.] 0.5631756782531738
+/home/wubw/voc-tire-fbb/testfiles/test_png/81_20180223_192557_3392.png: 5 0 [305. 650. 333. 671.] 0.5744117498397827
+/home/wubw/voc-tire-fbb/testfiles/test_png/E811178049_8572.png: 0 6 [321.  81. 352. 112.] 0.5206551551818848, 6 0 [315. 311. 346. 334.] 0.6860755085945129
+/home/wubw/voc-tire-fbb/testfiles/test_png/C811483771_12453.png: 6 0 [299.   0. 336.  38.] 0.5435528755187988
+/home/wubw/voc-tire-fbb/testfiles/test_png/H811418557_14979.png: 6 0 [329. 422. 380. 451.] 0.662676990032196
+/home/wubw/voc-tire-fbb/testfiles/test_png/E811178049_2056.png: 0 6 [327. 158. 353. 184.] 0.5777860283851624
+/home/wubw/voc-tire-fbb/testfiles/test_png/E811178049_7121.png: 0 6 [321. 769. 352. 800.] 0.42887142300605774
+/home/wubw/voc-tire-fbb/testfiles/test_png/G811122983_1_2968.png: 5 6 [235. 464. 267. 523.] 0.47461238503456116
+/home/wubw/voc-tire-fbb/testfiles/test_png/D811469392_12282.png: 0 2 [626.  72. 754. 805.] 0.7596139907836914
+/home/wubw/voc-tire-fbb/testfiles/test_png/D811469392_13989.png: 0 2 [368.  23. 600. 460.] 0.4491584300994873
+/home/wubw/voc-tire-fbb/testfiles/test_png/E811178049_7698.png: 6 0 [315. 725. 346. 748.] 0.5237461924552917
+/home/wubw/voc-tire-fbb/testfiles/test_png/H811418557_14275.png: 6 0 [329. 755. 380. 785.] 0.6152764558792114
+/home/wubw/voc-tire-fbb/testfiles/test_png/E811178049_1869.png: 0 6 [327. 247. 353. 273.] 0.5090853571891785
+/home/wubw/voc-tire-fbb/testfiles/test_png/I811678408_1_16767.png: 5 6 [566. 758. 594. 785.] 0.49476632475852966
+/home/wubw/voc-tire-fbb/testfiles/test_png/C811483771_11313.png: 6 0 [299. 540. 336. 578.] 0.5683781504631042, 5 0 [123. 548. 185. 590.] 0.5298306345939636
+/home/wubw/voc-tire-fbb/testfiles/test_png/E811178049_1732.png: 0 6 [327. 312. 353. 338.] 0.5310128927230835
+/home/wubw/voc-tire-fbb/testfiles/test_png/H811264773_727.png: 5 6 [302.  17. 332. 125.] 0.509578287601471
+/home/wubw/voc-tire-fbb/testfiles/test_png/G811664408_17712.png: 0 6 [314. 353. 362. 377.] 0.4509052038192749
+/home/wubw/voc-tire-fbb/testfiles/test_png/I811288927_17737.png: 0 6 [338. 578. 356. 596.] 0.4625178575515747
+/home/wubw/voc-tire-fbb/testfiles/test_png/I811288927_17365.png: 0 6 [338. 754. 356. 773.] 0.45779168605804443
+/home/wubw/voc-tire-fbb/testfiles/test_png/H811615766_5279.png: 5 6 [301. 586. 330. 777.] 0.5805090069770813
+/home/wubw/voc-tire-fbb/testfiles/test_png/I811288927_376.png: 0 6 [332. 504. 354. 526.] 0.4473549425601959
+/home/wubw/voc-tire-fbb/testfiles/test_png/H811515148_2_10914.png: 5 6 [322.  97. 353. 117.] 0.41662976145744324
+/home/wubw/voc-tire-fbb/testfiles/test_png/G811664408_17226.png: 0 6 [314. 584. 362. 607.] 0.4427182078361511
+/home/wubw/voc-tire-fbb/testfiles/test_png/I811288927_125.png: 0 6 [332. 623. 354. 645.] 0.46239417791366577
+/home/wubw/voc-tire-fbb/testfiles/test_png/G811664408_16925.png: 0 6 [314. 726. 362. 750.] 0.4151877462863922
+/home/wubw/voc-tire-fbb/testfiles/test_png/G811117943_9667.png: 2 0 [683. 406. 823. 494.] 0.5503580570220947
+/home/wubw/voc-tire-fbb/testfiles/test_png/G811664408_17024.png: 0 6 [314. 679. 362. 703.] 0.4321828782558441
+/home/wubw/voc-tire-fbb/testfiles/test_png/H811570245_13056.png: 5 6 [544. 568. 585. 597.] 0.522187352180481
+/home/wubw/voc-tire-fbb/testfiles/test_png/F811269099_21.png: 0 1 [293.  -1. 604. 899.] 0.5793911814689636
+/home/wubw/voc-tire-fbb/testfiles/test_png/G811140938_962.png: 5 4 [143. 147. 171. 196.] 0.569869339466095
+/home/wubw/voc-tire-fbb/testfiles/test_png/H811373337_13003.png: 5 6 [299.  62. 325. 112.] 0.4917524755001068
+/home/wubw/voc-tire-fbb/testfiles/test_png/F811128289_578.png: 5 6 [305.   2. 341. 244.] 0.4320690631866455
+/home/wubw/voc-tire-fbb/testfiles/test_png/G811117943_9312.png: 2 0 [683. 574. 823. 663.] 0.5563279390335083
+/home/wubw/voc-tire-fbb/testfiles/test_png/825_20171225_074611_2540.png: 4 5 [770. 512. 795. 557.] 0.478645920753479
+/home/wubw/voc-tire-fbb/testfiles/test_png/H811231564_51.png: 6 5 [329.  -1. 355.  65.] 0.7518103718757629
+/home/wubw/voc-tire-fbb/testfiles/test_png/G811117943_10528.png: 2 0 [683.  -1. 823.  87.] 0.7424178123474121
+/home/wubw/voc-tire-fbb/testfiles/test_png/C811453057_13875.png: 0 5 [760. 537. 789. 588.] 0.3955087661743164
+/home/wubw/voc-tire-fbb/testfiles/test_png/81_20180318_093829_9477.png: 5 6 [304. 648. 344. 681.] 0.4904237389564514
+/home/wubw/voc-tire-fbb/testfiles/test_png/81_20180318_093829_10119.png: 5 6 [304. 344. 344. 377.] 0.49013224244117737
+/home/wubw/voc-tire-fbb/testfiles/test_png/G811636914_3_12025.png: 5 0 [140. 236. 165. 256.] 0.5644128918647766
+/home/wubw/voc-tire-fbb/testfiles/test_png/C811453057_14075.png: 0 5 [760. 442. 789. 494.] 0.3964952826499939
+/home/wubw/voc-tire-fbb/testfiles/test_png/H811418557_15304.png: 6 0 [531. 258. 575. 294.] 0.52801114320755
+/home/wubw/voc-tire-fbb/testfiles/test_png/I811606742_6811.png: 0 5 [755. 693. 778. 719.] 0.43317198753356934
+/home/wubw/voc-tire-fbb/testfiles/test_png/F811530680_12632.png: 5 6 [308. 719. 355. 748.] 0.40902063250541687
+/home/wubw/voc-tire-fbb/testfiles/test_png/H811229292_14000.png: 2 4 [704. 290. 737. 504.] 0.6055259108543396
+/home/wubw/voc-tire-fbb/testfiles/test_png/H811620201_1_19218.png: 5 0 [101. 409. 129. 445.] 0.5563186407089233
+/home/wubw/voc-tire-fbb/testfiles/test_png/I811606742_7819.png: 0 5 [755. 215. 778. 242.] 0.4547264575958252
+/home/wubw/voc-tire-fbb/testfiles/test_png/833_20171222_060142_521.png: 5 6 [302.   2. 363.  48.] 0.4395580589771271
+/home/wubw/voc-tire-fbb/testfiles/test_png/G811426228_1307.png: 5 0 [143. 543. 261. 574.] 0.5636423826217651
+/home/wubw/voc-tire-fbb/testfiles/test_png/J811593730_2_15085.png: 6 0 [317. 669. 373. 723.] 0.6996607184410095
+/home/wubw/voc-tire-fbb/testfiles/test_png/J811593730_2_14933.png: 6 0 [317. 741. 373. 795.] 0.6424820423126221, B F [328.5  745.   366.25 793.5 ] 0.561097539961338
+/home/wubw/voc-tire-fbb/testfiles/test_png/E811128059_8963.png: 6 5 [331.  -1. 349.  88.] 0.5921091437339783
+/home/wubw/voc-tire-fbb/testfiles/test_png/G811631386_15247.png: 5 6 [310. 616. 341. 652.] 0.4138313829898834
+/home/wubw/voc-tire-fbb/testfiles/test_png/J811593730_2_16306.png: 6 0 [317.  91. 373. 145.] 0.632564127445221
+/home/wubw/voc-tire-fbb/testfiles/test_png/J811593730_2_15841.png: 6 0 [317. 311. 373. 365.] 0.618870198726654, B F [328.25 315.25 366.   363.  ] 0.566125676035881
+/home/wubw/voc-tire-fbb/testfiles/test_png/G811426228_2304.png: 5 0 [143.  71. 261. 101.] 0.5395911931991577
+/home/wubw/voc-tire-fbb/testfiles/test_png/G811681801_10133.png: 6 5 [315. 390. 343. 437.] 0.46511805057525635
+/home/wubw/voc-tire-fbb/testfiles/test_png/I811662793_1_10498.png: 0 5 [142. 109. 167. 124.] 0.47412213683128357
+/home/wubw/voc-tire-fbb/testfiles/test_png/G811657461_11661.png: 5 6 [327. 276. 347. 301.] 0.4606087803840637
+/home/wubw/voc-tire-fbb/testfiles/test_png/81_20180306_175230_2983.png: 6 5 [325. 593. 354. 665.] 0.40506792068481445
+/home/wubw/voc-tire-fbb/testfiles/test_png/H811667489_16720.png: 6 5 [298.   6. 319.  85.] 0.47312209010124207
+/home/wubw/voc-tire-fbb/testfiles/test_png/E811217708_4190.png: F B [427. 822. 489. 854.] 0
+/home/wubw/voc-tire-fbb/testfiles/test_png/E811294616_3306.png: F B [574.  -1. 597. 899.] 0
+/home/wubw/voc-tire-fbb/testfiles/test_png/E811294616_13947.png: F B [573. 723. 599. 899.] 0, F B [577. 502. 598. 562.] 0, F B [579. 421. 597. 457.] 0, F B [578.  -1. 598. 411.] 0
+/home/wubw/voc-tire-fbb/testfiles/test_png/H811617784_4841.png: F B [471.  -1. 512. 156.] 0
+/home/wubw/voc-tire-fbb/testfiles/test_png/E811217708_5655.png: F B [427. 128. 489. 160.] 0
+/home/wubw/voc-tire-fbb/testfiles/test_png/H811233423_3189.png: F B [754. 765. 775. 807.] 0
+/home/wubw/voc-tire-fbb/testfiles/test_png/I811413347_20702.png: F B [188. 535. 266. 582.] 0
+/home/wubw/voc-tire-fbb/testfiles/test_png/G811668647_6356.png: F B [555.  53. 584. 116.] 0
+/home/wubw/voc-tire-fbb/testfiles/test_png/G811558052_8619.png: F B [ 83. 879. 109. 899.] 0
+/home/wubw/voc-tire-fbb/testfiles/test_png/C811441795_9693.png: F B [115. 403. 149. 433.] 0
+/home/wubw/voc-tire-fbb/testfiles/test_png/E811294616_12597.png: F B [578. 450. 598. 899.] 0
+/home/wubw/voc-tire-fbb/testfiles/test_png/E811217708_4823.png: F B [105. 492. 132. 531.] 0
+/home/wubw/voc-tire-fbb/testfiles/test_png/E811294616_3078.png: F B [574.  -1. 597. 899.] 0
+/home/wubw/voc-tire-fbb/testfiles/test_png/E811294616_2673.png: F B [574.  -1. 597. 899.] 0
+/home/wubw/voc-tire-fbb/testfiles/test_png/E811294616_15115.png: F B [573. 170. 599. 744.] 0, F B [575. 826. 596. 872.] 0
+/home/wubw/voc-tire-fbb/testfiles/test_png/I811319135_56.png: F B [298.  66. 316. 131.] 0
+/home/wubw/voc-tire-fbb/testfiles/test_png/E811294616_2152.png: F B [574.  -1. 597. 899.] 0
+/home/wubw/voc-tire-fbb/testfiles/test_png/J811328744_1155.png: F B [526. 154. 553. 181.] 0
+/home/wubw/voc-tire-fbb/testfiles/test_png/I811281067_1_12577.png: F B [570. 144. 586. 323.] 0
+/home/wubw/voc-tire-fbb/testfiles/test_png/F811247724_14693.png: F B [537. 202. 568. 292.] 0
+/home/wubw/voc-tire-fbb/testfiles/test_png/E811294616_15319.png: F B [573.  73. 599. 647.] 0, F B [575. 729. 596. 776.] 0, F B [577. 851. 598. 899.] 0
+/home/wubw/voc-tire-fbb/testfiles/test_png/H811167836_90.png: F B [526.  -1. 564. 899.] 0
+/home/wubw/voc-tire-fbb/testfiles/test_png/E811294616_13361.png: F B [579. 698. 597. 735.] 0, F B [577. 780. 598. 840.] 0
+/home/wubw/voc-tire-fbb/testfiles/test_png/G811646534_4_7859.png: F B [350. 337. 365. 465.] 0
+/home/wubw/voc-tire-fbb/testfiles/test_png/G811238229_13421.png: F B [557.  -1. 593.  14.] 0
+/home/wubw/voc-tire-fbb/testfiles/test_png/C811402426_13944.png: F B [151. 426. 283. 456.] 0
+/home/wubw/voc-tire-fbb/testfiles/test_png/I811520424_10322.png: F B [104. 682. 116. 723.] 0
+/home/wubw/voc-tire-fbb/testfiles/test_png/E811294616_16063.png: F B [575. 377. 596. 423.] 0
+/home/wubw/voc-tire-fbb/testfiles/test_png/G811299601_16028.png: F B [714.  -1. 748. 899.] 0, B F [168.75        1.1445312 202.875      65.0625   ] 0.5492419078946114, B F [169.375 392.25  199.375 437.25 ] 0.5230929851531982
+/home/wubw/voc-tire-fbb/testfiles/test_png/H811509421_13619.png: F B [168. 349. 187. 379.] 0
+/home/wubw/voc-tire-fbb/testfiles/test_png/H811567741_13594.png: F B [549.   5. 577.  59.] 0
+/home/wubw/voc-tire-fbb/testfiles/test_png/I811323967_5083.png: F B [ 98.  95. 110. 124.] 0
+/home/wubw/voc-tire-fbb/testfiles/test_png/C811441795_9404.png: F B [115. 540. 149. 570.] 0, B F [116.125 128.    138.75  162.875] 0.5511344745755196
+/home/wubw/voc-tire-fbb/testfiles/test_png/J811328744_14158.png: F B [525. 278. 560. 313.] 0
+/home/wubw/voc-tire-fbb/testfiles/test_png/E811294616_16262.png: F B [575. 282. 596. 329.] 0
+/home/wubw/voc-tire-fbb/testfiles/test_png/E811217708_4327.png: F B [427. 757. 489. 789.] 0
+/home/wubw/voc-tire-fbb/testfiles/test_png/E811294616_4834.png: F B [574.  -1. 597. 287.] 0
+/home/wubw/voc-tire-fbb/testfiles/test_png/E811294616_11755.png: F B [578. 849. 598. 899.] 0
+/home/wubw/voc-tire-fbb/testfiles/test_png/J811328744_1078.png: F B [526. 190. 553. 218.] 0
+/home/wubw/voc-tire-fbb/testfiles/test_png/C811441795_9272.png: F B [115. 602. 149. 633.] 0, B F [115.9375 189.5    139.375  225.5   ] 0.5330052450299263
+/home/wubw/voc-tire-fbb/testfiles/test_png/E811294616_15000.png: F B [575. 880. 596. 899.] 0, F B [573. 224. 599. 799.] 0
+/home/wubw/voc-tire-fbb/testfiles/test_png/H811233423_3915.png: F B [754. 421. 775. 463.] 0
+/home/wubw/voc-tire-fbb/testfiles/test_png/C811402426_13192.png: F B [151. 782. 283. 812.] 0
+/home/wubw/voc-tire-fbb/testfiles/test_png/E811294616_12335.png: F B [578. 574. 598. 899.] 0
+/home/wubw/voc-tire-fbb/testfiles/test_png/G811630177_15928.png: F B [718. 174. 760. 216.] 0
+/home/wubw/voc-tire-fbb/testfiles/test_png/E811294616_1336.png: F B [574.  -1. 597. 899.] 0
+/home/wubw/voc-tire-fbb/testfiles/test_png/H811658776_6076.png: F B [150. 179. 179. 221.] 0
+/home/wubw/voc-tire-fbb/testfiles/test_png/G811403696_1_19783.png: F B [316. 451. 333. 484.] 0
+/home/wubw/voc-tire-fbb/testfiles/test_png/G811299601_15198.png: F B [714.  -1. 748. 899.] 0, B F [169.625 784.    199.25  832.   ] 0.5499805212020874
+/home/wubw/voc-tire-fbb/testfiles/test_png/E811217708_4869.png: F B [427. 500. 489. 532.] 0
+/home/wubw/voc-tire-fbb/testfiles/test_png/81_20180210_125732_9992.png: F B [ 85.  37. 106.  53.] 0
+/home/wubw/voc-tire-fbb/testfiles/test_png/E811294616_2824.png: F B [574.  -1. 597. 899.] 0
+/home/wubw/voc-tire-fbb/testfiles/test_png/G811652064_9001.png: F B [566. 707. 584. 753.] 0
+/home/wubw/voc-tire-fbb/testfiles/test_png/D811395782_13402.png: F B [683. 570. 795. 609.] 0
+/home/wubw/voc-tire-fbb/testfiles/test_png/G811299601_15188.png: F B [714.   3. 748. 899.] 0, F B [233. 388. 281. 443.] 0, B F [169.625 790.5   200.25  836.   ] 0.5434041693806648
+/home/wubw/voc-tire-fbb/testfiles/test_png/E811294616_14267.png: F B [578.  -1. 598. 259.] 0, F B [579. 269. 597. 305.] 0, F B [577. 350. 598. 411.] 0, F B [573. 572. 599. 899.] 0
+/home/wubw/voc-tire-fbb/testfiles/test_png/J811517253_7235.png: F B [298. 480. 341. 515.] 0
+/home/wubw/voc-tire-fbb/testfiles/test_png/E811294616_16141.png: F B [575. 340. 596. 386.] 0
+/home/wubw/voc-tire-fbb/testfiles/test_png/E811217708_5431.png: F B [105. 204. 132. 243.] 0, F B [427. 234. 489. 266.] 0.017165958881378174
+/home/wubw/voc-tire-fbb/testfiles/test_png/G811630177_15444.png: F B [718. 403. 760. 446.] 0
+/home/wubw/voc-tire-fbb/testfiles/test_png/E811294616_12017.png: F B [578. 725. 598. 899.] 0
+/home/wubw/voc-tire-fbb/testfiles/test_png/E811294616_15603.png: F B [573.  -1. 599. 513.] 0, F B [575. 528. 597. 565.] 0, F B [575. 594. 596. 641.] 0
+/home/wubw/voc-tire-fbb/testfiles/test_png/E811217708_4624.png: F B [105. 586. 132. 625.] 0, F B [427. 616. 489. 648.] 0.014325559139251709
+/home/wubw/voc-tire-fbb/testfiles/test_png/E811294616_2631.png: F B [574.  -1. 597. 899.] 0
+/home/wubw/voc-tire-fbb/testfiles/test_png/E811294616_16330.png: F B [575. 250. 596. 297.] 0
+/home/wubw/voc-tire-fbb/testfiles/test_png/I811323967_4912.png: F B [ 98. 176. 110. 205.] 0, F B [ 98.  35. 109.  70.] 0, F B [ 93. 105. 111. 160.] 0.01593703031539917
+/home/wubw/voc-tire-fbb/testfiles/test_png/E811294616_16465.png: F B [575. 186. 596. 233.] 0
+/home/wubw/voc-tire-fbb/testfiles/test_png/E811294616_16096.png: F B [575. 361. 596. 408.] 0
+/home/wubw/voc-tire-fbb/testfiles/test_png/F811293919_6983.png: F B [301. 795. 371. 897.] 0
+/home/wubw/voc-tire-fbb/testfiles/test_png/E811294616_3461.png: F B [574.  -1. 597. 899.] 0
+/home/wubw/voc-tire-fbb/testfiles/test_png/D811270349_6206.png: F B [208.  -1. 230. 899.] 0
+/home/wubw/voc-tire-fbb/testfiles/test_png/E811294616_12414.png: F B [578. 537. 598. 899.] 0
+/home/wubw/voc-tire-fbb/testfiles/test_png/J811517253_7944.png: F B [298. 144. 341. 179.] 0
+/home/wubw/voc-tire-fbb/testfiles/test_png/81_20180303_005833_183.png: F B [149. 872. 279. 899.] 0
+/home/wubw/voc-tire-fbb/testfiles/test_png/J811328744_13855.png: F B [525. 421. 560. 456.] 0
+/home/wubw/voc-tire-fbb/testfiles/test_png/E811294616_13373.png: F B [579. 692. 597. 729.] 0, F B [577. 774. 598. 834.] 0
+/home/wubw/voc-tire-fbb/testfiles/test_png/E811294616_17.png: F B [570.  89. 595. 135.] 0
+/home/wubw/voc-tire-fbb/testfiles/test_png/E811294616_16506.png: F B [575. 167. 596. 214.] 0
+/home/wubw/voc-tire-fbb/testfiles/test_png/J811517253_7288.png: F B [298. 455. 341. 490.] 0
+/home/wubw/voc-tire-fbb/testfiles/test_png/D811223111_11263.png: F B [713.  -1. 749.  26.] 0
+/home/wubw/voc-tire-fbb/testfiles/test_png/E811294616_3553.png: F B [574.  -1. 597. 893.] 0
+/home/wubw/voc-tire-fbb/testfiles/test_png/E811294616_3676.png: F B [574.  -1. 597. 835.] 0
+/home/wubw/voc-tire-fbb/testfiles/test_png/H811589144_8277.png: F B [733. 861. 771. 899.] 0
+/home/wubw/voc-tire-fbb/testfiles/test_png/F811250706_13465.png: F B [ 57.  -1. 148. 899.] 0
+/home/wubw/voc-tire-fbb/testfiles/test_png/E811217708_4241.png: F B [427. 798. 489. 829.] 0
+/home/wubw/voc-tire-fbb/testfiles/test_png/E811217708_5079.png: F B [427. 401. 489. 432.] 0
+/home/wubw/voc-tire-fbb/testfiles/test_png/E811294616_1496.png: F B [574.  -1. 597. 899.] 0
+/home/wubw/voc-tire-fbb/testfiles/test_png/E811294616_133.png: F B [570.  34. 595.  80.] 0
+/home/wubw/voc-tire-fbb/testfiles/test_png/H811629097_10008.png: F B [762. 877. 787. 899.] 0
+/home/wubw/voc-tire-fbb/testfiles/test_png/G811126990_31.png: F B [114. 710. 179. 737.] 0.017821431159973145
+/home/wubw/voc-tire-fbb/testfiles/test_png/G811369108_8357.png: B F [302.25 828.   350.75 884.  ] 0.6430302634835243
+/home/wubw/voc-tire-fbb/testfiles/test_png/88_20171224_070139_354.png: B F [636.    179.875 789.    287.5  ] 0.635338794440031, B F [134.25  210.25  245.625 327.25 ] 0.5816448926925659
+/home/wubw/voc-tire-fbb/testfiles/test_png/81_20180102_182839_13522.png: B F [685.5   130.875 757.5   169.5  ] 0.634171586483717
+/home/wubw/voc-tire-fbb/testfiles/test_png/H811212638_1_3879.png: B F [ 83.125      9.265625 130.875    900.5     ] 0.6272320970892906
+/home/wubw/voc-tire-fbb/testfiles/test_png/88_20171224_070139_16144.png: B F [634.5 709.5 790.  820. ] 0.6236776225268841, B F [132.75 740.5  246.   860.  ] 0.6062253378331661
+/home/wubw/voc-tire-fbb/testfiles/test_png/H811325373_2650.png: B F [ 5.4350000e+02 -1.9464493e-03  5.9850000e+02  8.5812500e+01] 0.6201840676367283
+/home/wubw/voc-tire-fbb/testfiles/test_png/81_20180102_182839_459.png: B F [683.5  402.5  755.5  437.75] 0.6140788681805134
+/home/wubw/voc-tire-fbb/testfiles/test_png/F811412235_18027.png: B F [732.5 756.  758.  805.5] 0.6135330833494663, B F [729.5 695.5 760.5 745.5] 0.6023438908159733, B F [736.5 814.5 760.5 852.5] 0.5961106717586517
+/home/wubw/voc-tire-fbb/testfiles/test_png/I811240291_14637.png: B F [299.75 698.5  599.   763.  ] 0.6133040338754654
+/home/wubw/voc-tire-fbb/testfiles/test_png/J811366636_7815.png: B F [530.5 479.5 590.5 562.5] 0.6100664846599102
+/home/wubw/voc-tire-fbb/testfiles/test_png/J811366636_8746.png: B F [530.5     39.25   591.     122.9375] 0.606881819665432
+/home/wubw/voc-tire-fbb/testfiles/test_png/F811412235_1726.png: B F [729.5   194.625 762.    247.375] 0.6025847755372524, B F [732.   261.   758.5  308.25] 0.5619713813066483
+/home/wubw/voc-tire-fbb/testfiles/test_png/I811321782_28.png: B F [624.5  210.5  758.   261.75] 0.5940841622650623
+/home/wubw/voc-tire-fbb/testfiles/test_png/81_20180227_091217_10674.png: B F [ 4.4275000e+02 -1.0673523e-02  5.5500000e+02  8.9950000e+02] 0.5926728621125221
+/home/wubw/voc-tire-fbb/testfiles/test_png/H811325373_10414.png: B F [299.5  147.   351.75 519.  ] 0.5923363566398621
+/home/wubw/voc-tire-fbb/testfiles/test_png/D811113478_15595.png: B F [614.5 564.5 779.5 648. ] 0.5904986299574375
+/home/wubw/voc-tire-fbb/testfiles/test_png/I811321782_365.png: B F [624.       50.53125 759.5     102.0625 ] 0.5895098112523556
+/home/wubw/voc-tire-fbb/testfiles/test_png/H811325373_10238.png: B F [299.5   229.125 352.    604.   ] 0.5870284661650658
+/home/wubw/voc-tire-fbb/testfiles/test_png/81_20180309_143643_8968.png: B F [555.5   0.  598.  898. ] 0.5847709514200687
+/home/wubw/voc-tire-fbb/testfiles/test_png/81_20180307_153331_13239.png: B F [640.5 682.  758.5 729. ] 0.5788107365369797
+/home/wubw/voc-tire-fbb/testfiles/test_png/81_20180310_114040_14517.png: B F [ 85.0625 178.5    246.     207.    ] 0.578677698969841, B F [654.    157.875 818.    187.875] 0.49614279717206955
+/home/wubw/voc-tire-fbb/testfiles/test_png/J811366636_8072.png: B F [530.   359.25 591.   441.75] 0.5782505124807358
+/home/wubw/voc-tire-fbb/testfiles/test_png/81_20180304_040921_71.png: B F [653.      0.    700.     38.375] 0.578162357211113
+/home/wubw/voc-tire-fbb/testfiles/test_png/81_20180102_182839_52.png: B F [684.  595.  749.5 632. ] 0.5771223865449429
+/home/wubw/voc-tire-fbb/testfiles/test_png/E811217708_8731.png: B F [ 85.875 231.5   215.25  350.25 ] 0.5764974430203438
+/home/wubw/voc-tire-fbb/testfiles/test_png/81_20180220_193258_11346.png: B F [ 76.5   452.5   160.875 665.5  ] 0.5761581659317017
+/home/wubw/voc-tire-fbb/testfiles/test_png/D811134380_3100.png: B F [623.        12.921875 767.5      227.125   ] 0.5735633969306946
+/home/wubw/voc-tire-fbb/testfiles/test_png/H811165375_3013.png: B F [535.  766.5 599.  823. ] 0.5697328448295593
+/home/wubw/voc-tire-fbb/testfiles/test_png/81_20180307_153331_14216.png: B F [640.5  219.   757.5  266.75] 0.5683704614639282
+/home/wubw/voc-tire-fbb/testfiles/test_png/E811259124_4607.png: B F [380.       52.34375 533.5     904.     ] 0.56492118537426
+/home/wubw/voc-tire-fbb/testfiles/test_png/I811120500_1_3486.png: B F [116.6875 579.5    242.5    636.5   ] 0.5638666413724422
+/home/wubw/voc-tire-fbb/testfiles/test_png/F811213028_2138.png: B F [298.75  168.875 384.75  201.5  ] 0.5633068308234215
+/home/wubw/voc-tire-fbb/testfiles/test_png/J811363836_9335.png: B F [  4.7929688 159.         59.59375   455.25     ] 0.5626893974840641
+/home/wubw/voc-tire-fbb/testfiles/test_png/H811161611_16230.png: B F [727.    161.375 828.5   462.5  ] 0.5571064576506615
+/home/wubw/voc-tire-fbb/testfiles/test_png/E811217708_8444.png: B F [ 86.5625 366.     215.     482.75  ] 0.5560839995741844
+/home/wubw/voc-tire-fbb/testfiles/test_png/H811165375_3387.png: B F [534.5 589.5 599.  645. ] 0.5559327676892281
+/home/wubw/voc-tire-fbb/testfiles/test_png/F811453553_1456.png: B F [ 95.     66.125 261.25  134.875] 0.5551528260111809
+/home/wubw/voc-tire-fbb/testfiles/test_png/81_20180303_005833_17812.png: B F [166.25    76.0625 278.     164.375 ] 0.5551471933722496
+/home/wubw/voc-tire-fbb/testfiles/test_png/81_20180130_065054_10332.png: B F [122.875 761.    242.75  807.   ] 0.5525631085038185
+/home/wubw/voc-tire-fbb/testfiles/test_png/H811445678_11799.png: B F [ 73.8125 617.5    238.75   656.    ] 0.551907129585743
+/home/wubw/voc-tire-fbb/testfiles/test_png/H811325372_11564.png: B F [127.9375 641.5    190.375  878.    ] 0.5506490617990494
+/home/wubw/voc-tire-fbb/testfiles/test_png/H811466754_10011.png: B F [523.   0. 597. 898.] 0.5498072952032089
+/home/wubw/voc-tire-fbb/testfiles/test_png/H811325373_10384.png: B F [299.25  159.375 352.5   536.5  ] 0.5492508262395859
+/home/wubw/voc-tire-fbb/testfiles/test_png/81_20180205_135056_16953.png: B F [333.5  181.25 358.5  287.25] 0.5486400425434113
+/home/wubw/voc-tire-fbb/testfiles/test_png/F811453553_133.png: B F [103.4375 775.5    260.25   822.    ] 0.547950491309166
+/home/wubw/voc-tire-fbb/testfiles/test_png/81_20180108_120519_1408.png: B F [117.75  618.    215.375 777.   ] 0.5472184494137764
+/home/wubw/voc-tire-fbb/testfiles/test_png/F811207692_3933.png: B F [780.    0.  858.  900.5] 0.5467547625303268
+/home/wubw/voc-tire-fbb/testfiles/test_png/G811187147_10054.png: B F [164.375 536.5   271.25  600.5  ] 0.54594936221838
+/home/wubw/voc-tire-fbb/testfiles/test_png/G811299601_15333.png: B F [169.625 720.    198.875 767.5  ] 0.5458274111151695, B F [167.875 711.    286.    767.5  ] 0.5094144344329834
+/home/wubw/voc-tire-fbb/testfiles/test_png/I811186345_895.png: B F [ 7.135000e+02 -8.666992e-03  7.990000e+02  4.971875e+01] 0.5447386801242828
+/home/wubw/voc-tire-fbb/testfiles/test_png/J811197653_5402.png: B F [ 95.1875 357.75   120.625  480.    ] 0.5443894788622856, B F [135.       20.34375 156.25    129.     ] 0.5004700943827629, B F [ 97.4375 490.75   121.5    590.    ] 0.4917590171098709
+/home/wubw/voc-tire-fbb/testfiles/test_png/J811366636_8061.png: B F [530.5  361.75 589.5  445.  ] 0.543911799788475, B F [524.  508.  588.  585.5] 0.5134358257055283
+/home/wubw/voc-tire-fbb/testfiles/test_png/87_20171223_223653_6799.png: B F [299.   237.5  370.25 326.  ] 0.5420569628477097
+/home/wubw/voc-tire-fbb/testfiles/test_png/G811123622_12289.png: B F [ 4.5218750e+01 -1.1703491e-02  9.2500000e+01  2.1712500e+02] 0.5419052615761757
+/home/wubw/voc-tire-fbb/testfiles/test_png/81_20180210_230554_8059.png: B F [298.5 566.  328.  613. ] 0.5412764847278595
+/home/wubw/voc-tire-fbb/testfiles/test_png/J811186296_1264.png: B F [390.25 423.75 527.5  823.  ] 0.5412274897098541
+/home/wubw/voc-tire-fbb/testfiles/test_png/81_20180225_135942_12890.png: B F [ 77.25        1.2714844 217.875      75.9375   ] 0.5401731133460999
+/home/wubw/voc-tire-fbb/testfiles/test_png/I811240291_15329.png: B F [300.   369.25 599.5  433.25] 0.5395698174834251
+/home/wubw/voc-tire-fbb/testfiles/test_png/H811505899_9.png: B F [319.75   0.   388.75 901.5 ] 0.5390194728970528
+/home/wubw/voc-tire-fbb/testfiles/test_png/81_20180207_085341_462.png: B F [731.   453.75 767.   480.25] 0.5386888235807419
+/home/wubw/voc-tire-fbb/testfiles/test_png/81_20180124_125423_5958.png: B F [652.5     65.625  836.     112.4375] 0.5384357795119286
+/home/wubw/voc-tire-fbb/testfiles/test_png/H811505899_10517.png: B F [524.   0. 596. 899.] 0.5380901768803596
+/home/wubw/voc-tire-fbb/testfiles/test_png/81_20180207_085341_22.png: B F [729.  662.5 767.  689.5] 0.5378875583410263
+/home/wubw/voc-tire-fbb/testfiles/test_png/D811311869_6154.png: B F [551.5      4.625  600.      55.0625] 0.5353578552603722
+/home/wubw/voc-tire-fbb/testfiles/test_png/I811321782_6503.png: B F [623.  801.5 759.  842. ] 0.5336345136165619
+/home/wubw/voc-tire-fbb/testfiles/test_png/I811321782_7454.png: B F [623.5  350.5  760.   392.25] 0.5322983264923096
+/home/wubw/voc-tire-fbb/testfiles/test_png/F811247724_11393.png: B F [791.    0.  854.5 897. ] 0.5320961996912956
+/home/wubw/voc-tire-fbb/testfiles/test_png/H811444209_9993.png: B F [806.  624.5 850.  698.5] 0.5319426655769348
+/home/wubw/voc-tire-fbb/testfiles/test_png/81_20180207_085341_16550.png: B F [730.5 820.5 768.5 846. ] 0.5319308191537857
+/home/wubw/voc-tire-fbb/testfiles/test_png/G811524745_19194.png: B F [335.25 807.   372.5  846.5 ] 0.5303590446710587
+/home/wubw/voc-tire-fbb/testfiles/test_png/H811325373_2232.png: B F [704.          0.8457031 806.5       440.       ] 0.5302038565278053
+/home/wubw/voc-tire-fbb/testfiles/test_png/81_20180210_230554_7479.png: B F [300.25 841.5  328.5  889.5 ] 0.5298538953065872, B F [619.5 826.  756.  865.5] 0.5182683169841766
+/home/wubw/voc-tire-fbb/testfiles/test_png/H811466754_7268.png: B F [522.    0.  599.5 900.5] 0.5287185832858086
+/home/wubw/voc-tire-fbb/testfiles/test_png/H811466104_5592.png: B F [401.75 690.   499.25 895.5 ] 0.5285791084170341
+/home/wubw/voc-tire-fbb/testfiles/test_png/D811223111_5367.png: B F [725. 566. 748. 726.] 0.5277021378278732
+/home/wubw/voc-tire-fbb/testfiles/test_png/81_20180102_182839_12327.png: B F [684.5 697.  762.  731.5] 0.5274734571576118
+/home/wubw/voc-tire-fbb/testfiles/test_png/81_20180310_095721_3690.png: B F [299.    196.125 360.    244.125] 0.527330607175827
+/home/wubw/voc-tire-fbb/testfiles/test_png/E811217708_7837.png: B F [ 87.    655.    215.125 770.5  ] 0.5271585211157799
+/home/wubw/voc-tire-fbb/testfiles/test_png/E811389141_14664.png: B F [819.5  310.   848.5  381.25] 0.5264284461736679, B F [819.5  308.75 848.5  381.5 ] 0.4976460635662079
+/home/wubw/voc-tire-fbb/testfiles/test_png/E811223067_10984.png: B F [330.   146.   380.75 572.5 ] 0.5263209119439125
+/home/wubw/voc-tire-fbb/testfiles/test_png/81_20180211_215956_5280.png: B F [235.375 755.    265.25  787.   ] 0.5263185650110245
+/home/wubw/voc-tire-fbb/testfiles/test_png/81_20180108_120519_1330.png: B F [117.875 653.5   215.625 816.   ] 0.5256926268339157
+/home/wubw/voc-tire-fbb/testfiles/test_png/81_20180207_085341_109.png: B F [726.5 620.5 767.5 648. ] 0.5246284380555153
+/home/wubw/voc-tire-fbb/testfiles/test_png/I811186345_684.png: B F [713.      97.3125 802.     151.875 ] 0.5243790820240974
+/home/wubw/voc-tire-fbb/testfiles/test_png/I811165315_17556.png: B F [571.    176.25  591.    211.625] 0.5229986384510994
+/home/wubw/voc-tire-fbb/testfiles/test_png/J811538591_51698.png: B F [771.5   0.  843.  899.5] 0.5225655511021614
+/home/wubw/voc-tire-fbb/testfiles/test_png/H811339551_29.png: B F [507.5   0.  601.5 896.5] 0.5223463699221611
+/home/wubw/voc-tire-fbb/testfiles/test_png/H811325373_10241.png: B F [299.75 228.   352.   606.  ] 0.5206821039319038
+/home/wubw/voc-tire-fbb/testfiles/test_png/J811317880_887.png: B F [622.5         6.5078125 742.         48.78125  ] 0.5204867050051689
+/home/wubw/voc-tire-fbb/testfiles/test_png/H811475659_578.png: B F [541.5   0.  600.5 898.5] 0.5190412402153015
+/home/wubw/voc-tire-fbb/testfiles/test_png/81_20180204_184337_5555.png: B F [622.          5.3203125 767.5        52.       ] 0.5183310136198997
+/home/wubw/voc-tire-fbb/testfiles/test_png/F811346199_2018.png: B F [710.5 495.  816.  526. ] 0.5179080739617348
+/home/wubw/voc-tire-fbb/testfiles/test_png/H811475659_11508.png: B F [130.   580.5  259.25 626.  ] 0.5172673389315605
+/home/wubw/voc-tire-fbb/testfiles/test_png/81_20180314_233932_5304.png: B F [ 85.0625 540.     242.625  580.    ] 0.5157784223556519
+/home/wubw/voc-tire-fbb/testfiles/test_png/H811325373_2810.png: B F [707.   247.75 791.   663.  ] 0.5149759501218796
+/home/wubw/voc-tire-fbb/testfiles/test_png/81_20180108_120519_2561.png: B F [118.4375  71.5625 215.5    208.25  ] 0.5136865228414536
+/home/wubw/voc-tire-fbb/testfiles/test_png/F811213028_14489.png: B F [299.   786.   385.75 818.  ] 0.5126578509807587
+/home/wubw/voc-tire-fbb/testfiles/test_png/H811135726_9099.png: B F [685.5      37.28125 801.       85.3125 ] 0.5119258314371109
+/home/wubw/voc-tire-fbb/testfiles/test_png/I811444374_2271.png: B F [105.5   745.    121.875 825.   ] 0.5109486356377602, B F [101.8125 381.75   122.3125 529.5   ] 0.4981192722916603
+/home/wubw/voc-tire-fbb/testfiles/test_png/I811186345_14451.png: B F [712.  560.5 801.5 612. ] 0.510887011885643
+/home/wubw/voc-tire-fbb/testfiles/test_png/H811390604_1_4253.png: B F [628.          1.8007812 768.5        49.84375  ] 0.5105427280068398
+/home/wubw/voc-tire-fbb/testfiles/test_png/H811325372_11693.png: B F [120.8125 840.5    191.25   896.5   ] 0.5102802962064743
+/home/wubw/voc-tire-fbb/testfiles/test_png/H811505899_10624.png: B F [524.5   0.  595.5 899.5] 0.5096778273582458
+/home/wubw/voc-tire-fbb/testfiles/test_png/F811453553_76.png: B F [ 93.8125 718.5    261.25   788.5   ] 0.5095405429601669
+/home/wubw/voc-tire-fbb/testfiles/test_png/H811475659_849.png: B F [541.    0.  600.  899.5] 0.5093914791941643, B F [307.    0.  380.5 899. ] 0.49290503561496735
+/home/wubw/voc-tire-fbb/testfiles/test_png/G811369410_111.png: B F [534.    128.375 560.5   195.   ] 0.509006604552269
+/home/wubw/voc-tire-fbb/testfiles/test_png/I811444374_2249.png: B F [105.875 756.5   121.5   835.   ] 0.5086307376623154
+/home/wubw/voc-tire-fbb/testfiles/test_png/D811137206_2107.png: B F [162.625     19.484375 271.25      60.15625 ] 0.5081845074892044
+/home/wubw/voc-tire-fbb/testfiles/test_png/I811549012_1_10240.png: B F [774.5 590.5 831.  657. ] 0.5081598088145256
+/home/wubw/voc-tire-fbb/testfiles/test_png/F811366255_11673.png: B F [138.5  559.   242.25 798.  ] 0.5072102397680283
+/home/wubw/voc-tire-fbb/testfiles/test_png/81_20171230_002029_4116.png: B F [784.5   0.  849.  902. ] 0.5069909021258354
+/home/wubw/voc-tire-fbb/testfiles/test_png/H811589144_5468.png: B F [145.875 830.5   174.25  900.   ] 0.5066952556371689
+/home/wubw/voc-tire-fbb/testfiles/test_png/J811190896_9098.png: B F [111.4375  99.     197.625  146.875 ] 0.5063714012503624
+/home/wubw/voc-tire-fbb/testfiles/test_png/81_20180207_085341_279.png: B F [727.5 541.  766.  566. ] 0.5063392594456673
+/home/wubw/voc-tire-fbb/testfiles/test_png/I811189023_8834.png: B F [175.125 353.75  259.    584.   ] 0.505279652774334
+/home/wubw/voc-tire-fbb/testfiles/test_png/D811223111_6139.png: B F [725.  201.5 748.5 357.5] 0.5046469643712044
+/home/wubw/voc-tire-fbb/testfiles/test_png/81_20180106_170012_9182.png: B F [135.625 440.    167.5   474.   ] 0.503563642501831
+/home/wubw/voc-tire-fbb/testfiles/test_png/I811186345_14140.png: B F [712.  706.5 801.5 763.5] 0.5025169104337692
+/home/wubw/voc-tire-fbb/testfiles/test_png/F811238451_14786.png: B F [339.5 771.  362.  861. ] 0.49966639280319214
+/home/wubw/voc-tire-fbb/testfiles/test_png/G811337293_8845.png: B F [299.25 693.   601.   900.  ] 0.4993176609277725
+/home/wubw/voc-tire-fbb/testfiles/test_png/D811223111_5535.png: B F [725.5  486.75 748.5  646.  ] 0.4991675913333893
+/home/wubw/voc-tire-fbb/testfiles/test_png/G811369108_10094.png: B F [316.          1.7802734 349.75       60.9375   ] 0.49916723370552063
+/home/wubw/voc-tire-fbb/testfiles/test_png/81_20180226_233619_2860.png: B F [ 4.5075000e+02 -3.4973145e-02  5.5750000e+02  9.0000000e+02] 0.4990374371409416
+/home/wubw/voc-tire-fbb/testfiles/test_png/81_20180310_095104_13769.png: B F [299.75     47.78125 598.       97.5625 ] 0.49748392403125763
+/home/wubw/voc-tire-fbb/testfiles/test_png/G811524745_19282.png: B F [335.25 765.5  371.75 802.5 ] 0.4962981194257736
+/home/wubw/voc-tire-fbb/testfiles/test_png/G811638307_1_18858.png: B F [100.125 646.    143.5   673.   ] 0.4945576339960098
+/home/wubw/voc-tire-fbb/testfiles/test_png/H811296074_14123.png: B F [380.5  470.75 441.   763.5 ] 0.493975393474102
+/home/wubw/voc-tire-fbb/testfiles/test_png/F811362492_4108.png: B F [613.    219.875 778.    486.   ] 0.49386703222990036
+/home/wubw/voc-tire-fbb/testfiles/test_png/H811325372_2761.png: B F [544.5      0.     599.      56.1875] 0.4933467283844948
+/home/wubw/voc-tire-fbb/testfiles/test_png/I811200360_6362.png: B F [ 3.930000e+02 -3.643799e-02  5.200000e+02  9.050000e+02] 0.49308688938617706
+/home/wubw/voc-tire-fbb/testfiles/test_png/G811276682_15690.png: B F [557.5 757.  585.5 778. ] 0.4917122572660446
+/home/wubw/voc-tire-fbb/testfiles/test_png/D811223111_5568.png: B F [725. 471. 748. 632.] 0.49154385924339294
+/home/wubw/voc-tire-fbb/testfiles/test_png/E811178049_9732.png: B F [321.   830.   358.25 870.  ] 0.49044419825077057
+/home/wubw/voc-tire-fbb/testfiles/test_png/I811165315_17240.png: B F [572.   325.75 591.   361.75] 0.49029502272605896
+/home/wubw/voc-tire-fbb/testfiles/test_png/81_20180207_085341_164.png: B F [727.5 596.  766.5 620.5] 0.49027126282453537
+/home/wubw/voc-tire-fbb/testfiles/test_png/811_20171221_193942_4983.png: B F [312.75 607.5  342.   636.5 ] 0.49027126282453537
+/home/wubw/voc-tire-fbb/testfiles/test_png/I811515810_11679.png: B F [167.75     54.28125 209.25     90.4375 ] 0.48951347172260284
+/home/wubw/voc-tire-fbb/testfiles/test_png/H811325372_2663.png: B F [ 5.4350000e+02 -2.6664734e-03  5.9850000e+02  9.9812500e+01] 0.4893372058868408

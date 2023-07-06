@@ -1,0 +1,515 @@
+/home/wubw/voc-tire-fbb/trainfiles/train_png/C811360257_13774.png: 1 0 [303. 616. 351. 899.] 0.8152846693992615, B F [205.75 659.5  267.5  896.  ] 0.5402520298957825
+/home/wubw/voc-tire-fbb/trainfiles/train_png/H811594766_15755.png: 0 6 [541. 504. 596. 562.] 0.5357915163040161
+/home/wubw/voc-tire-fbb/trainfiles/train_png/E811311264_12927.png: 5 0 [297. 618. 394. 647.] 0.5811952948570251, 5 0 [ 87. 610. 228. 670.] 0.7156496644020081
+/home/wubw/voc-tire-fbb/trainfiles/train_png/D811225022_1938.png: 2 0 [627. 282. 732. 300.] 0.7540268301963806, 2 0 [632. 305. 735. 327.] 0.7540268301963806
+/home/wubw/voc-tire-fbb/trainfiles/train_png/G811459952_2410.png: 0 2 [463. 802. 601. 899.] 0.7041629552841187, 0 2 [639. 826. 765. 899.] 0.7233774065971375
+/home/wubw/voc-tire-fbb/trainfiles/train_png/D811225022_2075.png: 2 0 [627. 217. 732. 235.] 0.7265309691429138, 2 0 [632. 241. 735. 262.] 0.7265309691429138
+/home/wubw/voc-tire-fbb/trainfiles/train_png/I811419938_8333.png: 0 5 [704.  99. 739. 244.] 0.4963985085487366
+/home/wubw/voc-tire-fbb/trainfiles/train_png/J811562542_19472.png: 5 7 [792. 106. 859. 899.] 0.7821440100669861
+/home/wubw/voc-tire-fbb/trainfiles/train_png/D811225022_1709.png: 2 0 [627. 390. 732. 409.] 0.692688524723053
+/home/wubw/voc-tire-fbb/trainfiles/train_png/H811527132_18118.png: 0 6 [553. 555. 587. 592.] 0.5051584243774414, B F [350.75 552.   380.25 577.5 ] 0.5741698443889618
+/home/wubw/voc-tire-fbb/trainfiles/train_png/81_20180128_053428_6375.png: 6 5 [143. 333. 170. 382.] 0.5653753280639648
+/home/wubw/voc-tire-fbb/trainfiles/train_png/G811511769_1_12352.png: 5 4 [392. 381. 416. 412.] 0.4880836009979248
+/home/wubw/voc-tire-fbb/trainfiles/train_png/H811106474_1_3525.png: 7 8 [ 88.  -1. 142. 899.] 0.47669950127601624
+/home/wubw/voc-tire-fbb/trainfiles/train_png/H811527132_18089.png: 0 6 [553. 568. 587. 605.] 0.5132624506950378
+/home/wubw/voc-tire-fbb/trainfiles/train_png/E811159541_99.png: 2 0 [389.  30. 596.  76.] 0.6266744136810303, B F [630.5        14.5859375 781.5        41.6875   ] 0.5686117112636566
+/home/wubw/voc-tire-fbb/trainfiles/train_png/G811623655_16567.png: 6 5 [143. 486. 173. 516.] 0.5488584041595459
+/home/wubw/voc-tire-fbb/trainfiles/train_png/G811311906_1_20688.png: 5 6 [264. 796. 286. 869.] 0.5822932720184326
+/home/wubw/voc-tire-fbb/trainfiles/train_png/E811311264_13869.png: 5 0 [ 87. 164. 228. 224.] 0.6421777009963989
+/home/wubw/voc-tire-fbb/trainfiles/train_png/C811481586_4195.png: 1 2 [647. 450. 841. 484.] 0.5618880391120911
+/home/wubw/voc-tire-fbb/trainfiles/train_png/D811333158_10019.png: 5 6 [314.  -1. 365. 154.] 0.7143895030021667
+/home/wubw/voc-tire-fbb/trainfiles/train_png/C811398589_20386.png: 5 6 [233. 473. 260. 558.] 0.5096317529678345, 5 6 [229. 699. 257. 764.] 0.5473434925079346
+/home/wubw/voc-tire-fbb/trainfiles/train_png/G811535980_313.png: 5 6 [581. 185. 598. 232.] 0.5158898830413818
+/home/wubw/voc-tire-fbb/trainfiles/train_png/I811663880_13782.png: 4 0 [298. 791. 599. 840.] 0.6042599678039551
+/home/wubw/voc-tire-fbb/trainfiles/train_png/H811170304_9650.png: 6 5 [310. 170. 334. 253.] 0.622544527053833
+/home/wubw/voc-tire-fbb/trainfiles/train_png/D811129788_1579.png: 4 0 [124.  10. 269.  47.] 0.658200204372406, B F [134.875 450.25  267.75  480.5  ] 0.5477757751941681
+/home/wubw/voc-tire-fbb/trainfiles/train_png/F811140220_1507.png: 5 0 [299. 595. 328. 637.] 0.601649820804596, B F [298. 600. 325. 636.] 0.7472250163555145, B F [298.   339.75 336.5  393.25] 0.6439788341522217, B F [298.25 594.   336.25 646.5 ] 0.6398134231567383
+/home/wubw/voc-tire-fbb/trainfiles/train_png/81_20180221_205935_2022.png: 2 1 [687. 593. 801. 615.] 0.6071441769599915
+/home/wubw/voc-tire-fbb/trainfiles/train_png/81_20180222_131836_13635.png: 0 5 [300.  66. 339. 102.] 0.5198336243629456, B F [299.75     57.59375 343.5     107.5625 ] 0.5514903962612152
+/home/wubw/voc-tire-fbb/trainfiles/train_png/C811398589_6283.png: 5 6 [236. 851. 258. 897.] 0.5370299220085144
+/home/wubw/voc-tire-fbb/trainfiles/train_png/F811140220_17843.png: 0 5 [301. 792. 320. 845.] 0.5384407043457031, B F [298. 799. 326. 835.] 0.6644544899463654, B F [298.  791.  335.5 843. ] 0.5859695374965668
+/home/wubw/voc-tire-fbb/trainfiles/train_png/I811163237_2_13.png: 4 2 [753.   0. 798. 163.] 0.5266451835632324
+/home/wubw/voc-tire-fbb/trainfiles/train_png/I811560851_12952.png: 5 6 [322. 779. 359. 810.] 0.5481224656105042
+/home/wubw/voc-tire-fbb/trainfiles/train_png/I811560851_1_14811.png: 5 6 [327. 288. 357. 323.] 0.5664576292037964
+/home/wubw/voc-tire-fbb/trainfiles/train_png/G811704895_13555.png: 5 6 [321. 668. 363. 695.] 0.5114244818687439
+/home/wubw/voc-tire-fbb/trainfiles/train_png/F811140220_1085.png: 0 5 [299. 789. 324. 843.] 0.5691460371017456, B F [298.   799.5  326.75 836.5 ] 0.6674658954143524, B F [298.5  794.5  336.25 845.  ] 0.610123485326767, B F [297.75 540.5  336.   591.5 ] 0.606649786233902
+/home/wubw/voc-tire-fbb/trainfiles/train_png/I811506729_4501.png: 5 6 [332. 220. 368. 274.] 0.636774480342865
+/home/wubw/voc-tire-fbb/trainfiles/train_png/G811328788_8031.png: F B [547. 820. 600. 899.] 0
+/home/wubw/voc-tire-fbb/trainfiles/train_png/H811467316_13140.png: F B [820. 120. 836. 165.] 0, F B [817.  51. 836.  86.] 0
+/home/wubw/voc-tire-fbb/trainfiles/train_png/I811346259_6987.png: F B [801.  -1. 893. 899.] 0
+/home/wubw/voc-tire-fbb/trainfiles/train_png/F811165198_4417.png: F B [792. 595. 820. 635.] 0
+/home/wubw/voc-tire-fbb/trainfiles/train_png/H811444595_9441.png: F B [353.  31. 379.  44.] 0
+/home/wubw/voc-tire-fbb/trainfiles/train_png/H811361925_6264.png: F B [  6.  -1.  85. 899.] 0
+/home/wubw/voc-tire-fbb/trainfiles/train_png/F811303339_2740.png: F B [102.  -1. 135.  24.] 0
+/home/wubw/voc-tire-fbb/trainfiles/train_png/H811467316_11567.png: F B [817. 796. 836. 831.] 0
+/home/wubw/voc-tire-fbb/trainfiles/train_png/G811577857_16959.png: F B [131. 842. 161. 869.] 0
+/home/wubw/voc-tire-fbb/trainfiles/train_png/E811185679_17855.png: F B [539.  -1. 595.  15.] 0
+/home/wubw/voc-tire-fbb/trainfiles/train_png/H811444595_8581.png: F B [353. 439. 379. 451.] 0
+/home/wubw/voc-tire-fbb/trainfiles/train_png/81_20180108_120752_15303.png: F B [555. 542. 599. 608.] 0, B F [108.375 160.875 194.875 372.   ] 0.5398158133029938
+/home/wubw/voc-tire-fbb/trainfiles/train_png/G811537048_952.png: F B [565.  34. 586.  69.] 0
+/home/wubw/voc-tire-fbb/trainfiles/train_png/C811419146_6726.png: F B [739. 519. 762. 561.] 0, F B [739. 244. 762. 287.] 0
+/home/wubw/voc-tire-fbb/trainfiles/train_png/G811251134_2_3939.png: F B [ 45. 331.  69. 351.] 0
+/home/wubw/voc-tire-fbb/trainfiles/train_png/G811161219_16378.png: F B [318. 626. 336. 780.] 0
+/home/wubw/voc-tire-fbb/trainfiles/train_png/E811338211_321.png: F B [579.  56. 599. 157.] 0
+/home/wubw/voc-tire-fbb/trainfiles/train_png/J811581345_16438.png: F B [ 72. 327.  88. 368.] 0, B F [483.   168.   538.5  383.75] 0.6749008893966675
+/home/wubw/voc-tire-fbb/trainfiles/train_png/G811164095_2499.png: F B [738. 656. 766. 692.] 0
+/home/wubw/voc-tire-fbb/trainfiles/train_png/824_20171224_120612_5822.png: F B [329. 410. 391. 482.] 0, F B [346. 269. 395. 336.] 0, F B [344. 123. 396. 214.] 0.057902395725250244, B F [ 61.0625   0.     124.9375 901.    ] 0.5576768219470978
+/home/wubw/voc-tire-fbb/trainfiles/train_png/I811355377_15472.png: F B [633.  49. 673.  62.] 0
+/home/wubw/voc-tire-fbb/trainfiles/train_png/H811305173_7046.png: F B [740.  -1. 774.  90.] 0, B F [196.375 877.    266.75  899.5  ] 0.6048965752124786, B F [193.         0.       219.5       28.453125] 0.5466101467609406
+/home/wubw/voc-tire-fbb/trainfiles/train_png/H811266660_2572.png: F B [531. 601. 549. 722.] 0
+/home/wubw/voc-tire-fbb/trainfiles/train_png/I811355377_14855.png: F B [633. 341. 673. 355.] 0
+/home/wubw/voc-tire-fbb/trainfiles/train_png/I811182641_2.png: F B [179. 863. 201. 899.] 0
+/home/wubw/voc-tire-fbb/trainfiles/train_png/E811338211_356.png: F B [579.  39. 599. 141.] 0
+/home/wubw/voc-tire-fbb/trainfiles/train_png/I811630961_14966.png: F B [101. 867. 180. 899.] 0
+/home/wubw/voc-tire-fbb/trainfiles/train_png/H811551604_16654.png: F B [743. 113. 802. 445.] 0.0190698504447937
+/home/wubw/voc-tire-fbb/trainfiles/train_png/G811572293_1384.png: F B [471. 462. 499. 503.] 0.021174848079681396
+/home/wubw/voc-tire-fbb/trainfiles/train_png/G811367764_5171.png: F B [ 32. 351.  82. 864.] 0.022557735443115234, B F [775.    0.  850.5 899.5] 0.7963903993368149
+/home/wubw/voc-tire-fbb/trainfiles/train_png/81_20171221_185430_6771.png: F B [487. 157. 596. 296.] 0.02357041835784912
+/home/wubw/voc-tire-fbb/trainfiles/train_png/813_20171221_021837_10920.png: F B [135. 478. 159. 528.] 0.027466237545013428
+/home/wubw/voc-tire-fbb/trainfiles/train_png/C811438024_7153.png: F B [340. 535. 421. 554.] 0.031068801879882812
+/home/wubw/voc-tire-fbb/trainfiles/train_png/81_20180201_130658_6173.png: F B [ 71. 441. 103. 461.] 0.03382819890975952
+/home/wubw/voc-tire-fbb/trainfiles/train_png/I811580789_12470.png: F B [ 61. 883. 200. 899.] 0.03390181064605713
+/home/wubw/voc-tire-fbb/trainfiles/train_png/H811145016_2100.png: F B [306. 842. 326. 899.] 0.03421962261199951
+/home/wubw/voc-tire-fbb/trainfiles/train_png/I811299339_11377.png: F B [575.  -1. 593. 899.] 0.0347709059715271
+/home/wubw/voc-tire-fbb/trainfiles/train_png/H811168144_11432.png: F B [746. 481. 772. 561.] 0.03623586893081665
+/home/wubw/voc-tire-fbb/trainfiles/train_png/G811266623_1845.png: F B [ 72.  -1. 108. 167.] 0.036523640155792236, B F [ 80.125 817.5   110.75  859.   ] 0.6235114634037018
+/home/wubw/voc-tire-fbb/trainfiles/train_png/I811240712_13172.png: F B [139.  17. 152. 421.] 0.03903603553771973, F B [137. 446. 153. 571.] 0.041366755962371826
+/home/wubw/voc-tire-fbb/trainfiles/train_png/C811438024_6698.png: F B [340. 750. 421. 770.] 0.03915959596633911
+/home/wubw/voc-tire-fbb/trainfiles/train_png/H811192061_9519.png: F B [363.  -1. 394.  38.] 0.039306581020355225
+/home/wubw/voc-tire-fbb/trainfiles/train_png/E811338211_22.png: F B [579. 197. 599. 299.] 0.03978908061981201, F B [582.   3. 599. 106.] 0.06000208854675293
+/home/wubw/voc-tire-fbb/trainfiles/train_png/E811377129_2825.png: F B [309. 803. 328. 899.] 0.039831340312957764
+/home/wubw/voc-tire-fbb/trainfiles/train_png/G811242481_4472.png: F B [ 86. 641. 106. 689.] 0.04024296998977661
+/home/wubw/voc-tire-fbb/trainfiles/train_png/F811289042_9440.png: F B [744. 726. 773. 899.] 0.04593098163604736, B F [149.375 542.5   262.25  671.   ] 0.5638807713985443
+/home/wubw/voc-tire-fbb/trainfiles/train_png/81_20180318_181254_8912.png: F B [70. -1. 88. 98.] 0.04610300064086914
+/home/wubw/voc-tire-fbb/trainfiles/train_png/I811182641_2953.png: F B [155. 224. 181. 323.] 0.046695172786712646, F B [154.  11. 171.  59.] 0.0523684024810791
+/home/wubw/voc-tire-fbb/trainfiles/train_png/I811182641_3539.png: F B [155.  -1. 181.  45.] 0.04726827144622803, F B [129. 171. 161. 257.] 0.05832034349441528
+/home/wubw/voc-tire-fbb/trainfiles/train_png/F811433355_4961.png: F B [329. 260. 370. 360.] 0.049046874046325684
+/home/wubw/voc-tire-fbb/trainfiles/train_png/F811213081_3207.png: F B [427. 346. 562. 417.] 0.049152672290802
+/home/wubw/voc-tire-fbb/trainfiles/train_png/I811173080_10598.png: F B [299.  79. 368. 143.] 0.049338579177856445
+/home/wubw/voc-tire-fbb/trainfiles/train_png/C811448945_10167.png: F B [566. 508. 582. 718.] 0.049935221672058105
+/home/wubw/voc-tire-fbb/trainfiles/train_png/E811153625_13844.png: F B [152.  -1. 274.  13.] 0.05062955617904663
+/home/wubw/voc-tire-fbb/trainfiles/train_png/H811163674_2_1377.png: F B [297. 880. 346. 899.] 0.05065208673477173, B F [296.75   0.   340.25 906.  ] 0.6879971921443939, B F [296.75   0.   341.   898.5 ] 0.6525483429431915
+/home/wubw/voc-tire-fbb/trainfiles/train_png/H811538490_9510.png: F B [754.   8. 773.  41.] 0.05150258541107178
+/home/wubw/voc-tire-fbb/trainfiles/train_png/H811637427_9026.png: F B [123. 427. 148. 481.] 0.05216878652572632
+/home/wubw/voc-tire-fbb/trainfiles/train_png/F811289042_8081.png: F B [652.  -1. 695.  22.] 0.05266845226287842
+/home/wubw/voc-tire-fbb/trainfiles/train_png/C811308998_2020.png: F B [150. 737. 214. 899.] 0.053557753562927246
+/home/wubw/voc-tire-fbb/trainfiles/train_png/J811314248_12273.png: F B [612. 518. 749. 616.] 0.054487764835357666
+/home/wubw/voc-tire-fbb/trainfiles/train_png/836_20171226_164635_11204.png: F B [544. 611. 566. 675.] 0.05486375093460083
+/home/wubw/voc-tire-fbb/trainfiles/train_png/H811266660_8898.png: F B [525.  37. 540. 200.] 0.055891454219818115
+/home/wubw/voc-tire-fbb/trainfiles/train_png/H811675589_1_18744.png: F B [148. 881. 168. 899.] 0.05678582191467285, B F [326.75 852.5  364.75 883.  ] 0.5937091708183289
+/home/wubw/voc-tire-fbb/trainfiles/train_png/G811637908_1_18555.png: F B [712. 542. 773. 576.] 0.05695629119873047, B F [337. 594. 376. 626.] 0.6426387131214142, B F [558.  592.  597.5 621. ] 0.5832999646663666
+/home/wubw/voc-tire-fbb/trainfiles/train_png/H811151719_14868.png: F B [100.  -1. 124.  42.] 0.05717110633850098
+/home/wubw/voc-tire-fbb/trainfiles/train_png/E811338212_10186.png: F B [333. 100. 363. 152.] 0.057636141777038574
+/home/wubw/voc-tire-fbb/trainfiles/train_png/813_20171221_021837_12032.png: F B [135.  16. 155.  58.] 0.05813193321228027
+/home/wubw/voc-tire-fbb/trainfiles/train_png/G811303637_14117.png: F B [657. 202. 679. 280.] 0.0583270788192749
+/home/wubw/voc-tire-fbb/trainfiles/train_png/81_20180203_095529_15157.png: F B [339.  -1. 357. 155.] 0.058576345443725586
+/home/wubw/voc-tire-fbb/trainfiles/train_png/824_20171226_090911_864.png: F B [299. 617. 355. 734.] 0.05859494209289551
+/home/wubw/voc-tire-fbb/trainfiles/train_png/I811359345_15676.png: F B [357. 379. 384. 731.] 0.0587846040725708
+/home/wubw/voc-tire-fbb/trainfiles/train_png/J811290882_4094.png: F B [ 38.  -1.  97. 139.] 0.06037670373916626
+/home/wubw/voc-tire-fbb/trainfiles/train_png/H811584895_9796.png: B F [ 69.75 800.   199.5  898.  ] 0.9350137114524841, B F [298.5  764.5  378.75 899.5 ] 0.5674431324005127
+/home/wubw/voc-tire-fbb/trainfiles/train_png/F811433719_4742.png: B F [ 2.9925000e+02 -1.2008667e-02  5.9900000e+02  5.0406250e+01] 0.8342923820018768
+/home/wubw/voc-tire-fbb/trainfiles/train_png/I811329232_12582.png: B F [817.  417.5 844.  559. ] 0.8303545564413071, B F [819. 596. 843. 765.] 0.6321670413017273
+/home/wubw/voc-tire-fbb/trainfiles/train_png/81_20180306_110210_3628.png: B F [ 96.5   814.5   203.875 853.   ] 0.8171804845333099, B F [299.25 792.5  598.   833.  ] 0.6000504791736603
+/home/wubw/voc-tire-fbb/trainfiles/train_png/81_20180224_085134_6918.png: B F [537.    0.  597.  899.5] 0.8139910846948624
+/home/wubw/voc-tire-fbb/trainfiles/train_png/H811325374_1240.png: B F [298.5  282.25 368.   571.  ] 0.8039662837982178
+/home/wubw/voc-tire-fbb/trainfiles/train_png/81_20180103_231257_13957.png: B F [ 99.375 494.    247.    584.   ] 0.8014292120933533
+/home/wubw/voc-tire-fbb/trainfiles/train_png/H811325374_1968.png: B F [ 2.9925000e+02 -1.2504578e-02  3.6825000e+02  2.2737500e+02] 0.797974169254303
+/home/wubw/voc-tire-fbb/trainfiles/train_png/G811142156_11594.png: B F [300.   344.5  358.75 440.5 ] 0.7835157513618469, B F [299.75  161.625 357.25  253.875] 0.6355909109115601, B F [300.75 712.   356.25 799.5 ] 0.6088204383850098
+/home/wubw/voc-tire-fbb/trainfiles/train_png/I811430863_1_11855.png: B F [127.625 191.25  267.75  301.5  ] 0.7792050242424011
+/home/wubw/voc-tire-fbb/trainfiles/train_png/H811229764_6306.png: B F [701.   102.25 767.   393.75] 0.7790322154760361
+/home/wubw/voc-tire-fbb/trainfiles/train_png/F811232855_19.png: B F [304.25 649.5  330.25 735.  ] 0.7672102302312851, B F [305.25 252.25 331.   333.  ] 0.7349235713481903, B F [305.25 383.   331.5  466.  ] 0.7344667613506317, B F [307.        0.      331.75     63.90625] 0.7305221557617188, B F [304.    119.75  330.5   196.375] 0.7275563776493073, B F [303.  782.  329.5 859.5] 0.6860724985599518, B F [305.25 519.   331.5  597.5 ] 0.5841813385486603
+/home/wubw/voc-tire-fbb/trainfiles/train_png/I811238715_5975.png: B F [684.     122.6875 791.     158.125 ] 0.76714888215065
+/home/wubw/voc-tire-fbb/trainfiles/train_png/81_20180205_123702_4279.png: B F [301.   269.25 597.   305.25] 0.7629054635763168
+/home/wubw/voc-tire-fbb/trainfiles/train_png/F811232855_13054.png: B F [305.   310.25 329.75 396.75] 0.7597672641277313
+/home/wubw/voc-tire-fbb/trainfiles/train_png/I811641906_16519.png: B F [745.5 231.5 801.  513.5] 0.7506235092878342
+/home/wubw/voc-tire-fbb/trainfiles/train_png/D811240672_7203.png: B F [145.875 127.125 289.5   159.   ] 0.750515028834343
+/home/wubw/voc-tire-fbb/trainfiles/train_png/G811483647_1_1942.png: B F [623.          2.2695312 774.5        44.75     ] 0.7491264343261719
+/home/wubw/voc-tire-fbb/trainfiles/train_png/H811287410_1786.png: B F [316.5  448.25 337.75 524.  ] 0.7463875412940979
+/home/wubw/voc-tire-fbb/trainfiles/train_png/F811675778_12621.png: B F [298.  815.  599.5 897. ] 0.7451669871807098
+/home/wubw/voc-tire-fbb/trainfiles/train_png/H811428106_287.png: B F [514.  845.  566.5 899.5] 0.7446441054344177, B F [523.5 676.5 563.  751.5] 0.6053315997123718
+/home/wubw/voc-tire-fbb/trainfiles/train_png/F811167412_12094.png: B F [138.25 719.   270.25 846.  ] 0.7425935864448547
+/home/wubw/voc-tire-fbb/trainfiles/train_png/81_20180221_183516_12141.png: B F [367.   405.25 385.25 472.25] 0.7391496896743774, B F [366.75  179.75  385.    250.125] 0.5726402103900909
+/home/wubw/voc-tire-fbb/trainfiles/train_png/H811230396_3860.png: B F [318.   415.75 367.75 482.75] 0.7385354042053223
+/home/wubw/voc-tire-fbb/trainfiles/train_png/I811362967_4398.png: B F [719.5  403.75 761.   495.75] 0.737562745809555, B F [718.  547.5 759.  632.5] 0.5878839194774628, B F [717.5  135.5  754.5  204.25] 0.576667994260788
+/home/wubw/voc-tire-fbb/trainfiles/train_png/I811155437_2_3339.png: B F [735.5 803.5 783.5 895.5] 0.737248569726944, B F [735.  696.5 785.5 792. ] 0.5746916234493256
+/home/wubw/voc-tire-fbb/trainfiles/train_png/81_20180226_085820_9610.png: B F [332.   546.   351.25 631.  ] 0.7370679974555969
+/home/wubw/voc-tire-fbb/trainfiles/train_png/H811589143_16798.png: B F [ 95.875  467.75   123.0625 631.5   ] 0.7346124947071075
+/home/wubw/voc-tire-fbb/trainfiles/train_png/H811505900_9692.png: B F [ 3.0450000e+02 -7.0129395e-02  3.8575000e+02  8.9850000e+02] 0.7325713038444519
+/home/wubw/voc-tire-fbb/trainfiles/train_png/81_20180315_140939_12302.png: B F [675.  659.5 696.5 899. ] 0.7315315306186676
+/home/wubw/voc-tire-fbb/trainfiles/train_png/81_20180221_183516_11871.png: B F [367.  533.  385.5 600.5] 0.7312021851539612, B F [366.5  307.25 385.   378.  ] 0.5767686665058136
+/home/wubw/voc-tire-fbb/trainfiles/train_png/81_20180227_235907_7652.png: B F [356.5  488.   413.25 710.5 ] 0.7287897169589996
+/home/wubw/voc-tire-fbb/trainfiles/train_png/D811240672_7250.png: B F [144.875  102.9375 285.5    137.75  ] 0.7237477004528046
+/home/wubw/voc-tire-fbb/trainfiles/train_png/G811418214_12944.png: B F [132.5 654.  271.  745.5] 0.7214875817298889
+/home/wubw/voc-tire-fbb/trainfiles/train_png/H811566602_6887.png: B F [324.   266.75 355.75 302.25] 0.7209804654121399
+/home/wubw/voc-tire-fbb/trainfiles/train_png/81_20180206_090952_4963.png: B F [299.5  477.75 598.5  526.  ] 0.7186340391635895, B F [109.8125 501.75   262.25   535.5   ] 0.6692143380641937
+/home/wubw/voc-tire-fbb/trainfiles/train_png/I811214510_18331.png: B F [ 3.0825000e+02 -3.4313202e-03  3.2875000e+02  4.8812500e+01] 0.7163229882717133
+/home/wubw/voc-tire-fbb/trainfiles/train_png/F811144943_655.png: B F [384.25   108.0625 529.     668.    ] 0.7153289020061493
+/home/wubw/voc-tire-fbb/trainfiles/train_png/I811214510_17540.png: B F [307.25  189.625 329.    275.5  ] 0.7151521444320679, B F [305.      39.4375 326.75   104.75  ] 0.6766672134399414, B F [307.75 359.75 327.75 424.25] 0.5975688695907593
+/home/wubw/voc-tire-fbb/trainfiles/train_png/81_20180226_010123_17542.png: B F [343.5  441.   364.75 536.5 ] 0.7119137346744537
+/home/wubw/voc-tire-fbb/trainfiles/train_png/H811120945_14477.png: B F [803.5 465.  863.  807. ] 0.7113368213176727
+/home/wubw/voc-tire-fbb/trainfiles/train_png/H811340747_17296.png: B F [787.   280.75 843.   486.5 ] 0.7068214118480682
+/home/wubw/voc-tire-fbb/trainfiles/train_png/H811230959_7141.png: B F [310.  537.5 350.5 565. ] 0.7065818905830383
+/home/wubw/voc-tire-fbb/trainfiles/train_png/H811620393_8609.png: B F [ 95.4375 342.5    121.8125 411.5   ] 0.7056654691696167
+/home/wubw/voc-tire-fbb/trainfiles/train_png/81_20180228_042518_1556.png: B F [301.5   0.  357.5 900.5] 0.7049418091773987
+/home/wubw/voc-tire-fbb/trainfiles/train_png/F811411067_12614.png: B F [295.75 765.5  598.   853.  ] 0.7047030031681061
+/home/wubw/voc-tire-fbb/trainfiles/train_png/C811423428_427.png: B F [127.625 359.5   187.    387.   ] 0.7039325535297394, B F [574.5  332.   598.5  356.75] 0.5649087131023407
+/home/wubw/voc-tire-fbb/trainfiles/train_png/E811200230_6850.png: B F [ 89.6875 100.375  194.25   129.625 ] 0.7029488980770111
+/home/wubw/voc-tire-fbb/trainfiles/train_png/81_20180109_140620_14124.png: B F [107.0625  20.25   193.75    86.75  ] 0.7023696303367615
+/home/wubw/voc-tire-fbb/trainfiles/train_png/F811109648_7352.png: B F [516.5 787.5 573.  859. ] 0.7000092566013336, B F [516.  607.  570.5 681.5] 0.6231486797332764
+/home/wubw/voc-tire-fbb/trainfiles/train_png/81_20180221_183516_11295.png: B F [367.  804.5 385.5 875. ] 0.6997279822826385, B F [366.5  581.5  385.25 650.  ] 0.6804301738739014
+/home/wubw/voc-tire-fbb/trainfiles/train_png/H811370842_12770.png: B F [104.25 608.   244.5  655.5 ] 0.6989266574382782
+/home/wubw/voc-tire-fbb/trainfiles/train_png/E811195270_12564.png: B F [306.    101.625 344.5   589.5  ] 0.6981228291988373
+/home/wubw/voc-tire-fbb/trainfiles/train_png/81_20180108_130823_7135.png: B F [108.5   390.75  191.875 480.25 ] 0.6959411203861237
+/home/wubw/voc-tire-fbb/trainfiles/train_png/81_20180211_141550_18014.png: B F [101.6875 513.5    250.     544.    ] 0.6955485641956329
+/home/wubw/voc-tire-fbb/trainfiles/train_png/E811184081_16892.png: B F [299.75 396.75 591.5  451.25] 0.6941614151000977
+/home/wubw/voc-tire-fbb/trainfiles/train_png/C811445365_3633.png: B F [300.   452.75 355.75 547.5 ] 0.6940122544765472
+/home/wubw/voc-tire-fbb/trainfiles/train_png/C811346062_49274.png: B F [633.  545.  815.5 579.5] 0.6937684118747711, B F [102.   583.   263.25 616.5 ] 0.5623711943626404
+/home/wubw/voc-tire-fbb/trainfiles/train_png/H811266660_9198.png: B F [ 3.092500e+02 -7.363281e-01  3.972500e+02  8.985000e+02] 0.6927014887332916
+/home/wubw/voc-tire-fbb/trainfiles/train_png/H811551492_2726.png: B F [298.75 340.   323.75 375.75] 0.6925431787967682
+/home/wubw/voc-tire-fbb/trainfiles/train_png/81_20180130_091118_8785.png: B F [655.  712.5 798.5 747.5] 0.6913914382457733, B F [112.375 755.    245.    800.5  ] 0.6002097129821777, B F [178.    754.    244.875 792.5  ] 0.5926913321018219
+/home/wubw/voc-tire-fbb/trainfiles/train_png/E811167829_19011.png: B F [300.25 779.5  350.25 897.  ] 0.6904977262020111
+/home/wubw/voc-tire-fbb/trainfiles/train_png/88_20171223_171333_3254.png: B F [102.5625 171.75   154.875  234.375 ] 0.6895051896572113
+/home/wubw/voc-tire-fbb/trainfiles/train_png/F811124470_12834.png: B F [631.5 544.  769.  601.5] 0.6865073144435883
+/home/wubw/voc-tire-fbb/trainfiles/train_png/G811308379_1_14614.png: B F [517.5 753.5 585.  845.5] 0.6858774721622467
+/home/wubw/voc-tire-fbb/trainfiles/train_png/81_20180221_132402_11575.png: B F [359.   396.5  379.5  490.25] 0.6826760470867157
+/home/wubw/voc-tire-fbb/trainfiles/train_png/81_20180308_232955_556.png: B F [300.5   0.  363.5 901. ] 0.6825989186763763
+/home/wubw/voc-tire-fbb/trainfiles/train_png/I811502943_13921.png: B F [157.5 520.  201.  599. ] 0.6817896962165833
+/home/wubw/voc-tire-fbb/trainfiles/train_png/81_20180109_140553_5328.png: B F [299.25 491.75 351.25 607.  ] 0.6800908148288727
+/home/wubw/voc-tire-fbb/trainfiles/train_png/H811266660_584.png: B F [573.    140.375 598.    211.125] 0.678859680891037
+/home/wubw/voc-tire-fbb/trainfiles/train_png/81_20180107_214155_15360.png: B F [299.    138.625 337.    165.75 ] 0.6784661114215851
+/home/wubw/voc-tire-fbb/trainfiles/train_png/E811184081_126.png: B F [299.   174.25 580.   227.  ] 0.678167849779129
+/home/wubw/voc-tire-fbb/trainfiles/train_png/H811242911_365.png: B F [334.25 721.   379.   759.5 ] 0.6774045526981354, B F [331.75 394.75 384.5  436.  ] 0.6106462478637695, B F [337.5  171.75 387.25 213.5 ] 0.5671785771846771
+/home/wubw/voc-tire-fbb/trainfiles/train_png/81_20180315_140939_14609.png: B F [ 91.       0.     191.25    86.9375] 0.6756710708141327
+/home/wubw/voc-tire-fbb/trainfiles/train_png/G811363162_1_14828.png: B F [121.75 672.5  187.75 705.  ] 0.6755514144897461
+/home/wubw/voc-tire-fbb/trainfiles/train_png/G811573392_12260.png: B F [ 89.875 642.    124.    697.5  ] 0.6755364239215851, B F [ 93.625  338.     123.0625 409.    ] 0.6442487239837646
+/home/wubw/voc-tire-fbb/trainfiles/train_png/I811518353_10656.png: B F [112.8125    0.      134.875    48.34375] 0.6751486659049988
+/home/wubw/voc-tire-fbb/trainfiles/train_png/C811423428_16178.png: B F [128.875 730.5   187.75  756.5  ] 0.6748707592487335, B F [575.5 702.  598.5 726. ] 0.6272896528244019, B F [575. 702. 599. 726.] 0.608016699552536
+/home/wubw/voc-tire-fbb/trainfiles/train_png/G811134179_9358.png: B F [520.  588.5 567.5 645.5] 0.673782616853714, B F [517.5 590.  568.  645. ] 0.5524641573429108
+/home/wubw/voc-tire-fbb/trainfiles/train_png/81_20180202_015426_8494.png: B F [706.5 661.5 786.  715. ] 0.6732302606105804
+/home/wubw/voc-tire-fbb/trainfiles/train_png/I811125580_12752.png: B F [771.      76.3125 810.     291.75  ] 0.6729128956794739
+/home/wubw/voc-tire-fbb/trainfiles/train_png/F811340947_12094.png: B F [298.75 840.   438.5  884.5 ] 0.6727143228054047
+/home/wubw/voc-tire-fbb/trainfiles/train_png/G811452705_6620.png: B F [119.9375    31.078125 149.375     64.875   ] 0.672582745552063, B F [117.75       0.       144.75      17.359375] 0.5694297850131989
+/home/wubw/voc-tire-fbb/trainfiles/train_png/81_20171229_092956_8048.png: B F [ 8.0350000e+02 -1.7051697e-03  8.5650000e+02  8.9550000e+02] 0.6721253395080566
+/home/wubw/voc-tire-fbb/trainfiles/train_png/81_20180224_114824_948.png: B F [299.    207.875 320.5   234.625] 0.6719797253608704
+/home/wubw/voc-tire-fbb/trainfiles/train_png/G811658968_18970.png: B F [667.  853.5 767.  899.5] 0.6718422472476959
+/home/wubw/voc-tire-fbb/trainfiles/train_png/G811142158_6212.png: B F [298.25 433.75 354.   520.5 ] 0.6709359586238861
+/home/wubw/voc-tire-fbb/trainfiles/train_png/81_20180211_141550_18120.png: B F [100.5625 464.25   250.     491.75  ] 0.6702373623847961
+/home/wubw/voc-tire-fbb/trainfiles/train_png/I811217393_11069.png: B F [497.75 630.5  597.5  892.  ] 0.6701840162277222
+/home/wubw/voc-tire-fbb/trainfiles/train_png/81_20180311_041257_3686.png: B F [563.      0.    581.5    31.625] 0.6700847446918488, B F [ 5.630000e+02 -6.340027e-03  5.815000e+02  3.153125e+01] 0.5691452920436859
+/home/wubw/voc-tire-fbb/trainfiles/train_png/81_20180317_073727_7051.png: B F [637.       38.28125 764.5     112.75   ] 0.6687816381454468
+/home/wubw/voc-tire-fbb/trainfiles/train_png/H811266660_757.png: B F [573.5     57.625  598.     126.8125] 0.6678228378295898
+/home/wubw/voc-tire-fbb/trainfiles/train_png/E811136181_7445.png: B F [ 5.6300000e+02 -1.3305664e-01  5.8800000e+02  1.6550000e+02] 0.667184978723526
+/home/wubw/voc-tire-fbb/trainfiles/train_png/81_20180225_232351_9402.png: B F [333.75 787.   354.5  874.  ] 0.666869729757309
+/home/wubw/voc-tire-fbb/trainfiles/train_png/E811103477_8182.png: B F [ 95.4375    0.      133.875    47.90625] 0.6667349338531494, B F [ 89.125   0.    131.    183.375] 0.6471675932407379
+/home/wubw/voc-tire-fbb/trainfiles/train_png/C811470379_5304.png: B F [299.25 288.75 354.75 363.5 ] 0.6659126877784729
+/home/wubw/voc-tire-fbb/trainfiles/train_png/81_20180109_090529_13440.png: B F [106.375 442.    195.625 519.   ] 0.6652060449123383
+/home/wubw/voc-tire-fbb/trainfiles/train_png/H811664403_660.png: B F [544.  769.  579.5 797. ] 0.6647041141986847
+/home/wubw/voc-tire-fbb/trainfiles/train_png/G811573392_7079.png: B F [ 95.625    32.71875 130.375   175.875  ] 0.6641004681587219
+/home/wubw/voc-tire-fbb/trainfiles/train_png/81_20180226_010123_17167.png: B F [344. 620. 365. 713.] 0.6621068120002747
+/home/wubw/voc-tire-fbb/trainfiles/train_png/I811521581_9304.png: B F [325.25 331.5  358.5  372.5 ] 0.6620003581047058
+/home/wubw/voc-tire-fbb/trainfiles/train_png/H811341926_16039.png: B F [166.375 307.75  217.625 360.25 ] 0.6619876027107239
+/home/wubw/voc-tire-fbb/trainfiles/train_png/81_20180223_193758_13617.png: B F [301.25 604.5  597.   685.5 ] 0.6617096960544586
+/home/wubw/voc-tire-fbb/trainfiles/train_png/I811436504_8111.png: B F [313.75  233.375 361.5   366.25 ] 0.6616674661636353
+/home/wubw/voc-tire-fbb/trainfiles/train_png/I811210275_11029.png: B F [144.75 534.   271.   595.  ] 0.6608457863330841
+/home/wubw/voc-tire-fbb/trainfiles/train_png/81_20180226_010123_17631.png: B F [343.25 400.75 364.75 493.5 ] 0.6605975925922394
+/home/wubw/voc-tire-fbb/trainfiles/train_png/C811426549_3117.png: B F [795.      35.6875 858.     278.75  ] 0.6598118841648102
+/home/wubw/voc-tire-fbb/trainfiles/train_png/H811325374_359.png: B F [299.25 700.   365.5  901.  ] 0.6594688892364502, B F [552.5 519.  599.5 894.5] 0.5686599016189575
+/home/wubw/voc-tire-fbb/trainfiles/train_png/G811459216_11062.png: B F [298.25 763.   369.   820.5 ] 0.6589601933956146
+/home/wubw/voc-tire-fbb/trainfiles/train_png/G811644871_1_3051.png: B F [338.75      22.578125 374.25      60.0625  ] 0.6583649814128876
+/home/wubw/voc-tire-fbb/trainfiles/train_png/H811136956_10796.png: B F [306.25 803.   328.25 876.5 ] 0.6575119495391846
+/home/wubw/voc-tire-fbb/trainfiles/train_png/81_20180126_212345_8623.png: B F [ 76.625 285.25  168.125 329.5  ] 0.6574371159076691
+/home/wubw/voc-tire-fbb/trainfiles/train_png/H811111586_2203.png: B F [297.75   0.   396.   901.  ] 0.6553787589073181
+/home/wubw/voc-tire-fbb/trainfiles/train_png/C811464677_3046.png: B F [229.375 623.    280.75  788.5  ] 0.6548905372619629
+/home/wubw/voc-tire-fbb/trainfiles/train_png/81_20180108_130823_1322.png: B F [109.875 484.25  193.125 554.   ] 0.6545019745826721
+/home/wubw/voc-tire-fbb/trainfiles/train_png/E811103477_6772.png: B F [ 96.75  674.5   132.125 714.5  ] 0.6545007526874542
+/home/wubw/voc-tire-fbb/trainfiles/train_png/G811365014_3573.png: B F [551.   203.25 598.5  429.  ] 0.6535460650920868
+/home/wubw/voc-tire-fbb/trainfiles/train_png/G811308379_2826.png: B F [301.5   112.875 350.75  182.   ] 0.651756763458252, B F [300.75 289.25 350.5  361.25] 0.6316563785076141
+/home/wubw/voc-tire-fbb/trainfiles/train_png/81_20180225_162926_2293.png: B F [693.5  477.25 794.5  515.5 ] 0.6517556607723236
+/home/wubw/voc-tire-fbb/trainfiles/train_png/81_20180109_123451_12917.png: B F [704.        0.      800.5      35.34375] 0.6506800055503845
+/home/wubw/voc-tire-fbb/trainfiles/train_png/81_20180225_232351_10327.png: B F [333.75 348.   354.25 428.5 ] 0.6505836546421051
+/home/wubw/voc-tire-fbb/trainfiles/train_png/81_20180227_014947_13371.png: B F [765.  518.  792.5 616. ] 0.6499468386173248
+/home/wubw/voc-tire-fbb/trainfiles/train_png/J811332024_2_14290.png: B F [694.5      50.90625 781.       85.75   ] 0.6489917635917664
+/home/wubw/voc-tire-fbb/trainfiles/train_png/81_20180131_124926_4543.png: B F [ 1.6875000e+01 -1.0299683e-02  3.9406250e+01  8.9400000e+02] 0.64858078956604
+/home/wubw/voc-tire-fbb/trainfiles/train_png/F811188620_1329.png: B F [537.    163.375 563.5   210.125] 0.6473287045955658
+/home/wubw/voc-tire-fbb/trainfiles/train_png/I811321804_1_8696.png: B F [154.125 835.5   272.75  899.5  ] 0.6473050117492676
+/home/wubw/voc-tire-fbb/trainfiles/train_png/I811204472_1891.png: B F [304.25 770.5  321.   866.5 ] 0.6459402143955231, B F [305.75 503.5  322.75 585.  ] 0.6407663226127625, B F [305.75  240.625 322.5   328.75 ] 0.5884915590286255
+/home/wubw/voc-tire-fbb/trainfiles/train_png/G811308389_2700.png: B F [298.25 498.75 352.75 583.  ] 0.6453390717506409
+/home/wubw/voc-tire-fbb/trainfiles/train_png/F811632362_16342.png: B F [ 94.375 361.5   170.75  442.5  ] 0.6443867087364197
+/home/wubw/voc-tire-fbb/trainfiles/train_png/I811217477_6683.png: B F [655.5       11.421875 763.5       34.5     ] 0.643724799156189
+/home/wubw/voc-tire-fbb/trainfiles/train_png/C811445365_4028.png: B F [300.5 265.  356.  361.5] 0.641440361738205
+/home/wubw/voc-tire-fbb/trainfiles/train_png/H811566189_4627.png: B F [7.5850000e+02 1.3330078e-01 7.8800000e+02 4.8156250e+01] 0.6410396099090576, B F [751.5   200.375 793.5   337.75 ] 0.6026595532894135, B F [757.  124.5 786.5 183. ] 0.6016378998756409
+/home/wubw/voc-tire-fbb/trainfiles/train_png/81_20180131_074811_6155.png: B F [ 82.625 436.75  161.875 545.5  ] 0.6403193473815918
+/home/wubw/voc-tire-fbb/trainfiles/train_png/837_20171226_091050_10317.png: B F [622.5 826.5 766.5 900. ] 0.6391150653362274
+/home/wubw/voc-tire-fbb/trainfiles/train_png/81_20180109_123451_14442.png: B F [120.0625 775.5    216.25   898.    ] 0.6376696527004242, B F [298.5 827.5 359.  877. ] 0.6042061150074005
+/home/wubw/voc-tire-fbb/trainfiles/train_png/E811136181_18827.png: B F [567.  460.  591.5 575.5] 0.6358602344989777
+/home/wubw/voc-tire-fbb/trainfiles/train_png/H811242911_7494.png: B F [330.25      27.390625 379.75      72.0625  ] 0.6354579925537109
+/home/wubw/voc-tire-fbb/trainfiles/train_png/D811123363_1891.png: B F [ 6.1950000e+02 -2.1476746e-03  7.5650000e+02  5.6593750e+01] 0.6351587176322937
+/home/wubw/voc-tire-fbb/trainfiles/train_png/81_20180108_142815_732.png: B F [126.4375 388.5    216.25   456.25  ] 0.6348006427288055
+/home/wubw/voc-tire-fbb/trainfiles/train_png/81_20180313_060710_11038.png: B F [795.5     -3.8125 849.5    898.    ] 0.6342777907848358, B F [ 34.75     0.      94.3125 900.    ] 0.5703191757202148
+/home/wubw/voc-tire-fbb/trainfiles/train_png/J811260147_5543.png: B F [801. 217. 830. 281.] 0.6335878670215607
+/home/wubw/voc-tire-fbb/trainfiles/train_png/I811608637_12230.png: B F [299.    40.5  320.5   68.75] 0.6330851018428802
+/home/wubw/voc-tire-fbb/trainfiles/train_png/I811621779_50.png: B F [541.5 796.5 598.  832.5] 0.6322111487388611
+/home/wubw/voc-tire-fbb/trainfiles/train_png/83_20171225_072931_587.png: B F [ 79.75        7.6757812 131.875      69.5      ] 0.6319828927516937
+/home/wubw/voc-tire-fbb/trainfiles/train_png/G811166404_5870.png: B F [299.25 502.25 602.   559.  ] 0.6302880346775055
+/home/wubw/voc-tire-fbb/trainfiles/train_png/H811422289_1_7507.png: B F [ 56.71875 298.       80.125   364.5    ] 0.6298350691795349
+/home/wubw/voc-tire-fbb/trainfiles/train_png/817_20171222_230357_1596.png: B F [545.5  393.75 598.5  437.  ] 0.6290104985237122
+/home/wubw/voc-tire-fbb/trainfiles/train_png/H811242911_1448.png: B F [337.25 808.5  379.75 843.  ] 0.6280316412448883, B F [337.75 210.5  372.75 245.25] 0.5689133703708649
+/home/wubw/voc-tire-fbb/trainfiles/train_png/E811103477_7549.png: B F [ 95.9375 306.25   132.5    346.5   ] 0.628023624420166
+/home/wubw/voc-tire-fbb/trainfiles/train_png/G811139905_9045.png: B F [324.      65.9375 348.25   119.125 ] 0.6279808878898621
+/home/wubw/voc-tire-fbb/trainfiles/train_png/I811266083_47934.png: B F [143.75  357.    223.125 395.5  ] 0.6262693703174591
+/home/wubw/voc-tire-fbb/trainfiles/train_png/81_20180210_093405_183.png: B F [556.         12.8984375 595.5       402.75     ] 0.6246813833713531
+/home/wubw/voc-tire-fbb/trainfiles/train_png/82_20171222_173259_18809.png: B F [332.25 642.   351.5  675.  ] 0.6245132684707642
+/home/wubw/voc-tire-fbb/trainfiles/train_png/H811571130_1_10842.png: B F [297.75 311.25 597.5  365.75] 0.6244162619113922
+/home/wubw/voc-tire-fbb/trainfiles/train_png/E811181919_12527.png: B F [660.  719.5 761.  780.5] 0.6240538060665131
+/home/wubw/voc-tire-fbb/trainfiles/train_png/I811590752_14791.png: B F [323.5  738.5  349.75 764.5 ] 0.6231988072395325, B F [323.25 739.5  350.5  765.5 ] 0.562155693769455
+/home/wubw/voc-tire-fbb/trainfiles/train_png/81_20180109_135905_13185.png: B F [104.25  175.75  194.5   235.625] 0.6231595575809479
+/home/wubw/voc-tire-fbb/trainfiles/train_png/817_20171222_230357_17846.png: B F [544. 781. 599. 823.] 0.6231369078159332
+/home/wubw/voc-tire-fbb/trainfiles/train_png/G811459216_11914.png: B F [297.75 360.   369.   414.  ] 0.6230372786521912
+/home/wubw/voc-tire-fbb/trainfiles/train_png/81_20180226_085820_10820.png: B F [330.75     0.     350.5     56.5625] 0.6211812496185303
+/home/wubw/voc-tire-fbb/trainfiles/train_png/J811275071_9993.png: B F [ 6.2150000e+02 -1.1291504e-02  7.5300000e+02  9.6875000e+01] 0.6211768388748169, B F [160.75  140.125 269.    172.   ] 0.6187067627906799
+/home/wubw/voc-tire-fbb/trainfiles/train_png/I811440180_4886.png: B F [131.875 776.    206.75  895.   ] 0.6209416687488556
+/home/wubw/voc-tire-fbb/trainfiles/train_png/I811329232_3268.png: B F [813.   484.75 834.5  569.  ] 0.6177879571914673
+/home/wubw/voc-tire-fbb/trainfiles/train_png/C811424812_11646.png: B F [ 18.625   0.     82.75  900.5  ] 0.6176565587520599
+/home/wubw/voc-tire-fbb/trainfiles/train_png/81_20180127_221600_5656.png: B F [ 72.8125  89.125  134.625  148.    ] 0.6173528432846069
+/home/wubw/voc-tire-fbb/trainfiles/train_png/81_20180127_063804_260.png: B F [ 73.8125 459.75   158.75   506.75  ] 0.6172745525836945
+/home/wubw/voc-tire-fbb/trainfiles/train_png/H811620393_7689.png: B F [ 94.8125 779.     121.8125 845.5   ] 0.6171657145023346
+/home/wubw/voc-tire-fbb/trainfiles/train_png/G811452705_17604.png: B F [104.0625 744.5    139.     786.    ] 0.616667777299881, B F [128.875 151.75  161.5   196.625] 0.5577375292778015, B F [134.375 437.75  168.125 480.25 ] 0.5527457594871521
+/home/wubw/voc-tire-fbb/trainfiles/train_png/81_20180129_164804_1233.png: B F [567.5  371.25 599.   485.  ] 0.6163135170936584
+/home/wubw/voc-tire-fbb/trainfiles/train_png/G811277078_4584.png: B F [722.  805.  769.  846.5] 0.6157477498054504
+/home/wubw/voc-tire-fbb/trainfiles/train_png/H811548611_6961.png: B F [ 86.125 864.5   113.    899.   ] 0.615492194890976
+/home/wubw/voc-tire-fbb/trainfiles/train_png/81_20180109_143027_10255.png: B F [298.75 203.75 351.5  249.75] 0.6150899827480316
+/home/wubw/voc-tire-fbb/trainfiles/train_png/H811663020_17334.png: B F [331.75 788.   361.5  816.  ] 0.6128890216350555, B F [548.5 795.5 577.5 829. ] 0.539442241191864
+/home/wubw/voc-tire-fbb/trainfiles/train_png/81_20180109_140347_749.png: B F [117.875 862.5   216.875 899.   ] 0.6126555800437927, B F [705.   247.5  801.   291.75] 0.5581391155719757
+/home/wubw/voc-tire-fbb/trainfiles/train_png/H811397712_16007.png: B F [665.5 780.5 815.  832. ] 0.6121332347393036, B F [ 93.5  785.5  253.75 841.  ] 0.5420469641685486
+/home/wubw/voc-tire-fbb/trainfiles/train_png/G811319055_1610.png: B F [652.      44.4375 788.     123.3125] 0.6115801930427551
+/home/wubw/voc-tire-fbb/trainfiles/train_png/G811277078_4970.png: B F [722.  624.  768.5 662. ] 0.6115058660507202
+/home/wubw/voc-tire-fbb/trainfiles/train_png/H811111586_1050.png: B F [298.     0.   398.75 901.  ] 0.61054328083992
+/home/wubw/voc-tire-fbb/trainfiles/train_png/81_20180302_182339_6383.png: B F [160.875 748.    291.    900.5  ] 0.6101941466331482
+/home/wubw/voc-tire-fbb/trainfiles/train_png/I811120474_17503.png: B F [109.8125 690.     243.375  721.    ] 0.6101155579090118
+/home/wubw/voc-tire-fbb/trainfiles/train_png/81_20180131_062039_10007.png: B F [300.     0.   381.25  23.5 ] 0.6089030206203461
+/home/wubw/voc-tire-fbb/trainfiles/train_png/G811452705_8765.png: B F [ 1.2106250e+02 -1.2420654e-02  1.5400000e+02  4.2750000e+01] 0.6076376140117645, B F [ 7.4100000e+02 -1.6616821e-02  7.8400000e+02  2.1050000e+02] 0.599564403295517
+/home/wubw/voc-tire-fbb/trainfiles/train_png/G811161045_8816.png: B F [ 84.      24.5    119.375   76.6875] 0.6073718667030334
+/home/wubw/voc-tire-fbb/trainfiles/train_png/H811242911_2739.png: B F [330.5 844.5 383.5 883.5] 0.60731041431427, B F [335.5   194.375 381.75  232.25 ] 0.5979942083358765
+/home/wubw/voc-tire-fbb/trainfiles/train_png/G811242481_935.png: B F [78.         0.        96.6875    13.1171875] 0.6069566607475281
+/home/wubw/voc-tire-fbb/trainfiles/train_png/G811260505_1_5529.png: B F [161.375 606.    229.25  642.   ] 0.6066019237041473
+/home/wubw/voc-tire-fbb/trainfiles/train_png/D811112999_6940.png: B F [298.25 616.   319.   643.  ] 0.6044837236404419
+/home/wubw/voc-tire-fbb/trainfiles/train_png/81_20180109_140620_5091.png: B F [298.5  574.5  341.25 627.5 ] 0.6041710078716278
+/home/wubw/voc-tire-fbb/trainfiles/train_png/D811416815_13518.png: B F [335.25 807.5  358.25 889.  ] 0.6040041446685791
+/home/wubw/voc-tire-fbb/trainfiles/train_png/E811436594_14249.png: B F [137.875 142.5   167.125 179.125] 0.603902280330658
+/home/wubw/voc-tire-fbb/trainfiles/train_png/I811441184_7883.png: B F [805.5     75.3125 842.     404.75  ] 0.6031522154808044
+/home/wubw/voc-tire-fbb/trainfiles/train_png/I811362967_3650.png: B F [719.  757.  761.5 849.5] 0.602329283952713, B F [717.   489.75 755.5  561.  ] 0.5552982985973358
+/home/wubw/voc-tire-fbb/trainfiles/train_png/E811184081_16574.png: B F [299.5 551.  588.  604. ] 0.602205902338028
+/home/wubw/voc-tire-fbb/trainfiles/train_png/G811636513_4_14464.png: B F [334.  570.  376.5 603. ] 0.6021801233291626, B F [559.5 587.  596.  623.5] 0.5460081100463867
+/home/wubw/voc-tire-fbb/trainfiles/train_png/H811567029_2475.png: B F [301.5 726.  325.  766. ] 0.6020833253860474
+/home/wubw/voc-tire-fbb/trainfiles/train_png/81_20180307_092347_15234.png: B F [ 80.8125  84.25   262.5    131.25  ] 0.602010577917099
+/home/wubw/voc-tire-fbb/trainfiles/train_png/G811464837_1_576.png: B F [298.25  190.875 343.25  248.875] 0.6018245816230774
+/home/wubw/voc-tire-fbb/trainfiles/train_png/H811417380_19451.png: B F [623.  578.5 744.  637. ] 0.6014796793460846
+/home/wubw/voc-tire-fbb/trainfiles/train_png/81_20171229_092528_221.png: B F [ 61.125    44.90625 107.3125  160.125  ] 0.6013659238815308
+/home/wubw/voc-tire-fbb/trainfiles/train_png/81_20180212_032233_2079.png: B F [101.9375  56.3125 265.5     88.6875] 0.6008025407791138
+/home/wubw/voc-tire-fbb/trainfiles/train_png/F811156992_11669.png: B F [ 5.1250000e+02 -1.8933105e-01  5.4800000e+02  4.7050000e+02] 0.6004824936389923
+/home/wubw/voc-tire-fbb/trainfiles/train_png/81_20180224_104321_15695.png: B F [300.25 332.25 600.   403.75] 0.6004628837108612
+/home/wubw/voc-tire-fbb/trainfiles/train_png/H811158148_3897.png: B F [542.    0.  569.   41.5] 0.6001617610454559
+/home/wubw/voc-tire-fbb/trainfiles/train_png/H811106111_11367.png: B F [308.75   0.   401.25 901.  ] 0.5994714498519897
+/home/wubw/voc-tire-fbb/trainfiles/train_png/81_20180109_140347_15807.png: B F [705.5   151.875 801.5   197.   ] 0.5992266833782196
+/home/wubw/voc-tire-fbb/trainfiles/train_png/I811442322_14576.png: B F [785.5  505.75 802.5  694.  ] 0.5991017818450928
+/home/wubw/voc-tire-fbb/trainfiles/train_png/H811179610_7920.png: B F [ 6.86500e+02 -9.07135e-03  7.97000e+02  8.47500e+01] 0.5987290740013123
+/home/wubw/voc-tire-fbb/trainfiles/train_png/F811331330_4333.png: B F [161.875 662.    190.75  708.5  ] 0.5987119078636169
+/home/wubw/voc-tire-fbb/trainfiles/train_png/I811113671_2835.png: B F [771.5 702.5 800.5 757. ] 0.598131537437439
+/home/wubw/voc-tire-fbb/trainfiles/train_png/G811308389_6279.png: B F [298.5 556.  352.  639. ] 0.597960352897644
+/home/wubw/voc-tire-fbb/trainfiles/train_png/E811363075_5385.png: B F [ 93.625 158.625 113.    449.5  ] 0.5977557897567749
+/home/wubw/voc-tire-fbb/trainfiles/train_png/81_20180206_175422_5175.png: B F [333.75 448.   358.   538.5 ] 0.5975559949874878
+/home/wubw/voc-tire-fbb/trainfiles/train_png/H811157317_15167.png: B F [ 61.6875   0.     239.125  900.    ] 0.5967617630958557
+/home/wubw/voc-tire-fbb/trainfiles/train_png/F811140220_752.png: B F [298.   697.5  335.25 749.  ] 0.596702516078949
+/home/wubw/voc-tire-fbb/trainfiles/train_png/81_20180109_140413_6541.png: B F [106.3125 353.     194.75   486.25  ] 0.5959446728229523, B F [704.5 773.5 795.  901.5] 0.5440137088298798
+/home/wubw/voc-tire-fbb/trainfiles/train_png/81_20180109_140553_8949.png: B F [298.75 558.   351.25 606.5 ] 0.5956874787807465
+/home/wubw/voc-tire-fbb/trainfiles/train_png/H811258605_6729.png: B F [542.  282.  598.5 328. ] 0.5955725312232971
+/home/wubw/voc-tire-fbb/trainfiles/train_png/H811698679_18473.png: B F [5.3500000e+02 3.8232422e-01 5.9550000e+02 8.9850000e+02] 0.5952730476856232
+/home/wubw/voc-tire-fbb/trainfiles/train_png/I811561276_7838.png: B F [106.1875 398.75   201.25   428.75  ] 0.5951867401599884
+/home/wubw/voc-tire-fbb/trainfiles/train_png/81_20180212_084837_12827.png: B F [802.5   157.625 826.    194.875] 0.5948529243469238
+/home/wubw/voc-tire-fbb/trainfiles/train_png/C811188942_9038.png: B F [143.5  437.5  247.75 481.25] 0.5942716002464294
+/home/wubw/voc-tire-fbb/trainfiles/train_png/81_20180228_005228_6013.png: B F [341.25   116.8125 364.     242.5   ] 0.5939368605613708, B F [629.    183.875 737.    243.625] 0.5725210309028625
+/home/wubw/voc-tire-fbb/trainfiles/train_png/H811637429_11169.png: B F [1.0662500e+02 1.7791748e-02 1.3850000e+02 1.4675000e+02] 0.5926097929477692
+/home/wubw/voc-tire-fbb/trainfiles/train_png/81_20180309_050617_14638.png: B F [788.  646.5 811.  696.5] 0.5924402475357056
+/home/wubw/voc-tire-fbb/trainfiles/train_png/F811155189_14417.png: B F [298.  635.  592.5 746.5] 0.5917512774467468
+/home/wubw/voc-tire-fbb/trainfiles/train_png/I811329232_11515.png: B F [819.  290.  844.5 652.5] 0.5916198790073395
+/home/wubw/voc-tire-fbb/trainfiles/train_png/H811115734_10500.png: B F [172.25 240.5  280.   473.25] 0.5912515819072723
+/home/wubw/voc-tire-fbb/trainfiles/train_png/I811118977_1_263.png: B F [ 2.995000e+02 -7.324219e-02  3.550000e+02  8.568750e+01] 0.5911681354045868
+/home/wubw/voc-tire-fbb/trainfiles/train_png/81_20180227_084515_14.png: B F [779.  674.5 801.  727. ] 0.5906202495098114
+/home/wubw/voc-tire-fbb/trainfiles/train_png/H811466920_4374.png: B F [299.25 228.   357.5  312.5 ] 0.5905874967575073, B F [300.5      49.21875 356.75    135.25   ] 0.5508570373058319
+/home/wubw/voc-tire-fbb/trainfiles/train_png/81_20180129_172418_3614.png: B F [658.5 610.5 825.5 828.5] 0.5898560881614685
+/home/wubw/voc-tire-fbb/trainfiles/train_png/E811259108_15429.png: B F [692.5 592.5 759.5 626.5] 0.5896226763725281
+/home/wubw/voc-tire-fbb/trainfiles/train_png/C811360261_95.png: B F [521.5  324.75 571.   404.75] 0.5886632800102234, B F [299.25 302.5  341.25 741.5 ] 0.5476148426532745
+/home/wubw/voc-tire-fbb/trainfiles/train_png/81_20180306_044358_9305.png: B F [654.  668.5 817.5 712. ] 0.5881772935390472
+/home/wubw/voc-tire-fbb/trainfiles/train_png/G811646265_403.png: B F [120.8125 154.375  159.375  192.375 ] 0.5879094302654266
+/home/wubw/voc-tire-fbb/trainfiles/train_png/J811571218_2_11740.png: B F [298.   475.5  316.   495.25] 0.5873090028762817, B F [298.   475.25 319.   496.  ] 0.5640612840652466, B F [ 83.6875 493.25   221.5    525.5   ] 0.5388727486133575
+/home/wubw/voc-tire-fbb/trainfiles/train_png/G811250657_14930.png: B F [134.   388.5  265.   510.75] 0.5865750312805176
+/home/wubw/voc-tire-fbb/trainfiles/train_png/J811368493_18345.png: B F [300.75   0.   382.5  901.  ] 0.5865431129932404
+/home/wubw/voc-tire-fbb/trainfiles/train_png/I811398011_6380.png: B F [535.5   181.375 580.    238.875] 0.586415559053421, B F [540.       34.21875 580.5      87.375  ] 0.5626596212387085
+/home/wubw/voc-tire-fbb/trainfiles/train_png/81_20180227_071534_11556.png: B F [300.25 518.5  598.   589.  ] 0.586388111114502
+/home/wubw/voc-tire-fbb/trainfiles/train_png/H811620393_16246.png: B F [111.4375 582.     136.625  622.5   ] 0.5861207842826843, B F [747.5         1.1416016 785.5       787.       ] 0.5840091407299042
+/home/wubw/voc-tire-fbb/trainfiles/train_png/81_20180106_114654_15039.png: B F [435.75  211.875 601.5   283.   ] 0.585918664932251
+/home/wubw/voc-tire-fbb/trainfiles/train_png/C811443030_16590.png: B F [118.5 675.5 262.  747. ] 0.5857530236244202
+/home/wubw/voc-tire-fbb/trainfiles/train_png/I811193794_6149.png: B F [159.875 777.5   270.75  843.5  ] 0.5854142606258392
+/home/wubw/voc-tire-fbb/trainfiles/train_png/G811195312_3402.png: B F [684.  515.5 757.5 552.5] 0.5849424302577972
+/home/wubw/voc-tire-fbb/trainfiles/train_png/I811679057_384.png: B F [299.25 375.   361.25 466.25] 0.5847938358783722
+/home/wubw/voc-tire-fbb/trainfiles/train_png/G811326196_16538.png: B F [299.     80.5   598.5   157.625] 0.5843770205974579
+/home/wubw/voc-tire-fbb/trainfiles/train_png/G811125429_262.png: B F [299.5  111.   372.75 155.5 ] 0.5836150348186493
+/home/wubw/voc-tire-fbb/trainfiles/train_png/I811608637_11744.png: B F [ 97.  304.5 203.5 349. ] 0.5831662714481354
+/home/wubw/voc-tire-fbb/trainfiles/train_png/D811317723_14110.png: B F [542.5 369.  599.5 565.5] 0.5821194052696228, B F [297.75 394.75 362.   548.  ] 0.5656451284885406
+/home/wubw/voc-tire-fbb/trainfiles/train_png/G811625177_15605.png: B F [734.  834.5 761.  871. ] 0.5818870961666107
+/home/wubw/voc-tire-fbb/trainfiles/train_png/81_20180130_074436_7899.png: B F [403.75 344.75 422.25 399.5 ] 0.5814830660820007
+/home/wubw/voc-tire-fbb/trainfiles/train_png/G811319055_17585.png: B F [651.5 569.  783.5 646. ] 0.5814238488674164
+/home/wubw/voc-tire-fbb/trainfiles/train_png/J811275071_2002.png: B F [346.75 293.5  369.5  465.5 ] 0.5807402729988098, B F [346.5  551.5  369.75 721.5 ] 0.5681962668895721
+/home/wubw/voc-tire-fbb/trainfiles/train_png/81_20180206_090324_16585.png: B F [477.5 166.  587.  900. ] 0.580684244632721
+/home/wubw/voc-tire-fbb/trainfiles/train_png/H811566189_4411.png: B F [755.5    105.5625 794.5    444.25  ] 0.5806441605091095, B F [759.    229.875 786.5   285.25 ] 0.5735876858234406
+/home/wubw/voc-tire-fbb/trainfiles/train_png/E811373994_2247.png: B F [ 98.   433.   138.75 719.5 ] 0.579898327589035
+/home/wubw/voc-tire-fbb/trainfiles/train_png/81_20180202_203755_8054.png: B F [669.  761.5 745.  809.5] 0.579888641834259
+/home/wubw/voc-tire-fbb/trainfiles/train_png/81_20171222_122621_1021.png: B F [166.375 591.5   190.5   768.5  ] 0.5782656073570251
+/home/wubw/voc-tire-fbb/trainfiles/train_png/J811521901_256.png: B F [316.5   112.625 342.5   133.   ] 0.5779615938663483
+/home/wubw/voc-tire-fbb/trainfiles/train_png/81_20180315_090606_8372.png: B F [655.      40.5625 826.5     75.25  ] 0.5765834748744965
+/home/wubw/voc-tire-fbb/trainfiles/train_png/C811411825_32.png: B F [535.      99.1875 577.     132.875 ] 0.5763188600540161
+/home/wubw/voc-tire-fbb/trainfiles/train_png/81_20171222_122621_15207.png: B F [168.875 706.5   190.5   890.   ] 0.5759782493114471
+/home/wubw/voc-tire-fbb/trainfiles/train_png/G811684739_649.png: B F [542. 599. 598. 633.] 0.5757155120372772
+/home/wubw/voc-tire-fbb/trainfiles/train_png/81_20180109_140523_13835.png: B F [701.  685.5 793.  729.5] 0.5754364132881165
+/home/wubw/voc-tire-fbb/trainfiles/train_png/C811275009_18222.png: B F [304.5  321.25 364.75 353.25] 0.5751770734786987
+/home/wubw/voc-tire-fbb/trainfiles/train_png/81_20180109_123734_4107.png: B F [120.375   0.    218.375  19.875] 0.5746096968650818
+/home/wubw/voc-tire-fbb/trainfiles/train_png/G811517759_1_8552.png: B F [298.   611.5  334.25 656.5 ] 0.5744262039661407
+/home/wubw/voc-tire-fbb/trainfiles/train_png/81_20180205_132406_4724.png: B F [340.5  870.   363.75 899.5 ] 0.573968380689621
+/home/wubw/voc-tire-fbb/trainfiles/train_png/F811148981_0.png: B F [512.    0.  552.5 854. ] 0.5737413763999939
+/home/wubw/voc-tire-fbb/trainfiles/train_png/81_20180315_131140_6466.png: B F [808.5        -4.4726562 859.        894.       ] 0.5730282664299011
+/home/wubw/voc-tire-fbb/trainfiles/train_png/E811436594_14234.png: B F [138.125 149.25  166.875 185.5  ] 0.5728141069412231, B F [139.    107.875 166.375 143.75 ] 0.5683658719062805
+/home/wubw/voc-tire-fbb/trainfiles/train_png/F811356966_8220.png: B F [320.25 428.75 371.75 824.5 ] 0.5725338160991669
+/home/wubw/voc-tire-fbb/trainfiles/train_png/81_20180302_091856_2399.png: B F [798.       36.21875 850.      900.5    ] 0.5724417567253113
+/home/wubw/voc-tire-fbb/trainfiles/train_png/H811629427_1_7784.png: B F [158.75 775.   190.75 799.5 ] 0.5723660886287689
+/home/wubw/voc-tire-fbb/trainfiles/train_png/I811289467_5159.png: B F [753.5 524.5 796.  566. ] 0.5723004043102264
+/home/wubw/voc-tire-fbb/trainfiles/train_png/H811446881_5972.png: B F [654.5 638.  804.5 856. ] 0.572050154209137
+/home/wubw/voc-tire-fbb/trainfiles/train_png/H811233208_19524.png: B F [304.75   0.   393.   899.5 ] 0.5715446174144745
+/home/wubw/voc-tire-fbb/trainfiles/train_png/I811575610_3268.png: B F [757.  598.5 779.  615. ] 0.571248471736908
+/home/wubw/voc-tire-fbb/trainfiles/train_png/H811335482_7562.png: B F [297.25   0.   388.   897.  ] 0.5705958604812622
+/home/wubw/voc-tire-fbb/trainfiles/train_png/814_20171224_115508_15083.png: B F [301.5   209.875 349.    504.   ] 0.5704585015773773
+/home/wubw/voc-tire-fbb/trainfiles/train_png/81_20180213_011251_13923.png: B F [530.   311.25 594.5  475.25] 0.5700600147247314
+/home/wubw/voc-tire-fbb/trainfiles/train_png/F811303680_9190.png: B F [757.5 671.  813.  711. ] 0.5700345039367676
+/home/wubw/voc-tire-fbb/trainfiles/train_png/H811233208_19445.png: B F [304.25   0.   391.75 894.  ] 0.5696513056755066
+/home/wubw/voc-tire-fbb/trainfiles/train_png/G811540664_1_160.png: B F [338.75        7.7929688 374.5        43.625    ] 0.5694137215614319
+/home/wubw/voc-tire-fbb/trainfiles/train_png/I811503044_7638.png: B F [157.  289.  187.5 365. ] 0.5692360997200012
+/home/wubw/voc-tire-fbb/trainfiles/train_png/E811122133_2242.png: B F [142.375 842.5   169.875 891.5  ] 0.5691458284854889
+/home/wubw/voc-tire-fbb/trainfiles/train_png/81_20180204_030112_1496.png: B F [373.   197.75 420.5  530.5 ] 0.5689884722232819
+/home/wubw/voc-tire-fbb/trainfiles/train_png/G811615718_15040.png: B F [112.8125 375.75   138.875  418.5   ] 0.568499356508255
+/home/wubw/voc-tire-fbb/trainfiles/train_png/J811275071_4112.png: B F [549.    104.875 566.5   266.   ] 0.5682720243930817
+/home/wubw/voc-tire-fbb/trainfiles/train_png/81_20171230_023248_12856.png: B F [302.25    54.6875 344.25    75.625 ] 0.5681778788566589
+/home/wubw/voc-tire-fbb/trainfiles/train_png/81_20180223_193653_8713.png: B F [539.        0.      561.       31.96875] 0.5681079030036926
+/home/wubw/voc-tire-fbb/trainfiles/train_png/81_20171222_122621_15232.png: B F [168.875 695.5   190.375 877.5  ] 0.5678769648075104
+/home/wubw/voc-tire-fbb/trainfiles/train_png/81_20180109_140413_10708.png: B F [298.5 579.  340.5 645. ] 0.5674664080142975
+/home/wubw/voc-tire-fbb/trainfiles/train_png/H811424728_12083.png: B F [539.  550.5 564.5 611.5] 0.5674575567245483
+/home/wubw/voc-tire-fbb/trainfiles/train_png/G811163851_505.png: B F [541.5         3.7519531 565.         44.8125   ] 0.567444771528244
+/home/wubw/voc-tire-fbb/trainfiles/train_png/H811410657_9761.png: B F [300.5  163.25 599.5  239.5 ] 0.5661790072917938
+/home/wubw/voc-tire-fbb/trainfiles/train_png/C811444615_14060.png: B F [297.75 140.25 373.5  223.75] 0.566161721944809
+/home/wubw/voc-tire-fbb/trainfiles/train_png/81_20180306_181445_17045.png: B F [576.   454.5  599.5  498.25] 0.5660936832427979
+/home/wubw/voc-tire-fbb/trainfiles/train_png/G811328432_2_14154.png: B F [103.375 211.375 221.75  296.   ] 0.5658866763114929
+/home/wubw/voc-tire-fbb/trainfiles/train_png/83_20171225_072931_16154.png: B F [ 80.   640.   132.75 705.5 ] 0.5653586387634277
+/home/wubw/voc-tire-fbb/trainfiles/train_png/G811143279_9625.png: B F [155.5 848.  264.  875.5] 0.5647045373916626
+/home/wubw/voc-tire-fbb/trainfiles/train_png/81_20180108_132654_1255.png: B F [114.75 467.5  216.   524.5 ] 0.5644329488277435
+/home/wubw/voc-tire-fbb/trainfiles/train_png/D811406946_12802.png: B F [161.25 750.   258.5  780.  ] 0.5643471777439117
+/home/wubw/voc-tire-fbb/trainfiles/train_png/H811309909_9249.png: B F [299.25 774.5  375.5  818.5 ] 0.5637852549552917
+/home/wubw/voc-tire-fbb/trainfiles/train_png/86_20171224_064013_8848.png: B F [299.   518.5  367.75 601.  ] 0.5630430579185486
+/home/wubw/voc-tire-fbb/trainfiles/train_png/C811360261_233.png: B F [521.   259.75 574.5  337.75] 0.5625015497207642, B F [299.5   221.875 341.75  676.5  ] 0.5450568795204163
+/home/wubw/voc-tire-fbb/trainfiles/train_png/81_20180103_210842_1127.png: B F [120.8125 303.75   174.25   345.5   ] 0.5624180436134338
+/home/wubw/voc-tire-fbb/trainfiles/train_png/J811396129_1378.png: B F [132.5  469.25 259.75 535.  ] 0.5620015263557434
+/home/wubw/voc-tire-fbb/trainfiles/train_png/H811325374_11056.png: B F [707. 718. 794. 896.] 0.5617966651916504
+/home/wubw/voc-tire-fbb/trainfiles/train_png/I811438422_35.png: B F [134.625 296.25  273.25  353.75 ] 0.5616634786128998
+/home/wubw/voc-tire-fbb/trainfiles/train_png/I811252825_13300.png: B F [323.75 768.5  355.25 845.  ] 0.5615459680557251
+/home/wubw/voc-tire-fbb/trainfiles/train_png/G811121936_14143.png: B F [293.    54.25 359.75 793.5 ] 0.5612933933734894
+/home/wubw/voc-tire-fbb/trainfiles/train_png/81_20180131_191957_5375.png: B F [335.25 761.5  351.5  824.5 ] 0.561115562915802
+/home/wubw/voc-tire-fbb/trainfiles/train_png/H811466920_341.png: B F [299.25 465.25 351.5  550.  ] 0.5610462725162506
+/home/wubw/voc-tire-fbb/trainfiles/train_png/I811289020_17899.png: B F [315.75        9.0859375 336.75       88.9375   ] 0.5606676936149597
+/home/wubw/voc-tire-fbb/trainfiles/train_png/H811667376_15062.png: B F [316.   154.   341.75 188.75] 0.5605804622173309
+/home/wubw/voc-tire-fbb/trainfiles/train_png/C811493852_14724.png: B F [298.   456.   330.25 478.25] 0.560372531414032
+/home/wubw/voc-tire-fbb/trainfiles/train_png/J811571218_17100.png: B F [297.75 628.   315.25 647.  ] 0.5603126287460327, B F [ 85.125 645.5   221.25  678.   ] 0.5407837331295013
+/home/wubw/voc-tire-fbb/trainfiles/train_png/H811242911_4892.png: B F [332.5     99.9375 379.5    137.    ] 0.5602792799472809, B F [329.25 374.75 381.   413.75] 0.5593835413455963, B F [342.75   104.0625 366.75   130.    ] 0.5446823537349701
+/home/wubw/voc-tire-fbb/trainfiles/train_png/81_20180104_224618_2579.png: B F [115.1875 512.5    131.25   548.    ] 0.5591810941696167, B F [115.3125 451.25   130.25   492.75  ] 0.5480397343635559
+/home/wubw/voc-tire-fbb/trainfiles/train_png/81_20180109_123734_4183.png: B F [703.5 816.5 793.  858. ] 0.558837890625
+/home/wubw/voc-tire-fbb/trainfiles/train_png/H811466085_17182.png: B F [ 4.0050000e+02 -2.4246216e-02  5.1400000e+02  8.9950000e+02] 0.5586979985237122
+/home/wubw/voc-tire-fbb/trainfiles/train_png/G811422711_1_6591.png: B F [621.5    126.0625 786.5    326.75  ] 0.5585905909538269
+/home/wubw/voc-tire-fbb/trainfiles/train_png/H811321242_3889.png: B F [145.    308.25  205.875 345.25 ] 0.5585733354091644
+/home/wubw/voc-tire-fbb/trainfiles/train_png/F811112733_1209.png: B F [303.75 106.5  385.   156.  ] 0.558251142501831
+/home/wubw/voc-tire-fbb/trainfiles/train_png/G811507435_602.png: B F [550.     116.3125 596.5    159.25  ] 0.5577501952648163
+/home/wubw/voc-tire-fbb/trainfiles/train_png/D811112793_12361.png: B F [ 97.25 724.5  267.75 761.  ] 0.5569503307342529
+/home/wubw/voc-tire-fbb/trainfiles/train_png/F811197707_7026.png: B F [ 95.0625 418.75   264.25   462.25  ] 0.5568448901176453
+/home/wubw/voc-tire-fbb/trainfiles/train_png/I811307920_2237.png: B F [540.  859.5 574.5 899. ] 0.556805282831192
+/home/wubw/voc-tire-fbb/trainfiles/train_png/G811449416_54.png: B F [326.5     13.5    371.75    67.0625] 0.5564889013767242
+/home/wubw/voc-tire-fbb/trainfiles/train_png/81_20180129_164804_18098.png: B F [567.5  371.   599.   481.25] 0.5563990771770477
+/home/wubw/voc-tire-fbb/trainfiles/train_png/I811645623_57.png: B F [693.          5.0039062 793.5        59.96875  ] 0.5561375916004181
+/home/wubw/voc-tire-fbb/trainfiles/train_png/H811366081_14439.png: B F [298.25 511.   346.75 596.5 ] 0.5559967756271362
+/home/wubw/voc-tire-fbb/trainfiles/train_png/H811436461_9436.png: B F [299.75  228.625 598.    282.75 ] 0.5559138357639313
+/home/wubw/voc-tire-fbb/trainfiles/train_png/H811663522_18704.png: B F [106.     736.5    122.3125 771.    ] 0.555658608675003
+/home/wubw/voc-tire-fbb/trainfiles/train_png/81_20180313_044639_10710.png: B F [ 7.9700000e+02 -1.7290115e-03  8.5300000e+02  8.9950000e+02] 0.5549913048744202
+/home/wubw/voc-tire-fbb/trainfiles/train_png/G811644885_2722.png: B F [107.9375   17.90625 148.375    44.5625 ] 0.5548997223377228
+/home/wubw/voc-tire-fbb/trainfiles/train_png/G811417704_1_17249.png: B F [115.9375 513.     281.5    615.    ] 0.554784744977951
+/home/wubw/voc-tire-fbb/trainfiles/train_png/I811354332_2100.png: B F [327.75 563.   366.75 656.5 ] 0.5542531311511993
+/home/wubw/voc-tire-fbb/trainfiles/train_png/81_20180109_140553_15341.png: B F [ 2.9925000e+02 -1.0398865e-02  3.5350000e+02  5.8062500e+01] 0.5541744828224182
+/home/wubw/voc-tire-fbb/trainfiles/train_png/H811256683_3776.png: B F [526.5 833.  569.  899. ] 0.5540744066238403
+/home/wubw/voc-tire-fbb/trainfiles/train_png/J811581349_18174.png: B F [104.75  663.    222.375 724.5  ] 0.5539304614067078
+/home/wubw/voc-tire-fbb/trainfiles/train_png/I811550260_13819.png: B F [103.       57.90625 163.      102.4375 ] 0.5537472367286682
+/home/wubw/voc-tire-fbb/trainfiles/train_png/H811266660_8220.png: B F [567.   297.   598.   368.75] 0.5535909533500671
+/home/wubw/voc-tire-fbb/trainfiles/train_png/81_20180129_124301_8736.png: B F [382.25 449.75 402.5  497.75] 0.5535517632961273
+/home/wubw/voc-tire-fbb/trainfiles/train_png/D811292550_536.png: B F [325.5 705.5 350.5 760. ] 0.5535496473312378
+/home/wubw/voc-tire-fbb/trainfiles/train_png/81_20180109_140553_7971.png: B F [117.625     25.109375 214.25      82.375   ] 0.5532933175563812
+/home/wubw/voc-tire-fbb/trainfiles/train_png/C811444615_14048.png: B F [298.5   150.625 369.    227.375] 0.5529665052890778
+/home/wubw/voc-tire-fbb/trainfiles/train_png/C811304639_17689.png: B F [608.    231.875 751.    290.   ] 0.5529163181781769
+/home/wubw/voc-tire-fbb/trainfiles/train_png/81_20180305_053506_13610.png: B F [545.5   0.  598.  903.5] 0.552612692117691
+/home/wubw/voc-tire-fbb/trainfiles/train_png/H811674312_1_13065.png: B F [726.5    78.625 764.5   331.25 ] 0.5522253811359406
+/home/wubw/voc-tire-fbb/trainfiles/train_png/J811275071_7401.png: B F [546.  815.  563.  899.5] 0.5522006154060364
+/home/wubw/voc-tire-fbb/trainfiles/train_png/81_20180103_210842_877.png: B F [120.25 423.   173.75 464.75] 0.5517034828662872
+/home/wubw/voc-tire-fbb/trainfiles/train_png/G811501163_16750.png: B F [130.375 560.    172.625 589.   ] 0.5508579313755035
+/home/wubw/voc-tire-fbb/trainfiles/train_png/I811518353_10607.png: B F [113.1875      5.7890625 133.75       72.8125   ] 0.5506560504436493
+/home/wubw/voc-tire-fbb/trainfiles/train_png/I811237142_1731.png: B F [801.5   0.  858.  899.5] 0.5505818426609039
+/home/wubw/voc-tire-fbb/trainfiles/train_png/H811273430_19293.png: B F [634.5 547.5 748.  803.5] 0.5503243803977966
+/home/wubw/voc-tire-fbb/trainfiles/train_png/G811125429_11388.png: B F [298.25 695.   378.75 732.  ] 0.5501956045627594
+/home/wubw/voc-tire-fbb/trainfiles/train_png/G811636513_18413.png: B F [332.5  670.5  373.75 701.  ] 0.5501790642738342
+/home/wubw/voc-tire-fbb/trainfiles/train_png/F811134963_18182.png: B F [613.5  396.25 745.   456.25] 0.5496878623962402
+/home/wubw/voc-tire-fbb/trainfiles/train_png/81_20180210_093758_455.png: B F [469.75        3.4140625 549.        443.25     ] 0.5492055416107178
+/home/wubw/voc-tire-fbb/trainfiles/train_png/H811663522_18940.png: B F [105.9375 623.5    122.1875 659.5   ] 0.5489108860492706
+/home/wubw/voc-tire-fbb/trainfiles/train_png/C811293725_1672.png: B F [659.5 678.5 754.  717. ] 0.5488218367099762
+/home/wubw/voc-tire-fbb/trainfiles/train_png/G811589417_8959.png: B F [140.5  526.   184.75 561.5 ] 0.5487322509288788
+/home/wubw/voc-tire-fbb/trainfiles/train_png/G811419098_8631.png: B F [703.   292.75 783.   339.75] 0.5481827259063721
+/home/wubw/voc-tire-fbb/trainfiles/train_png/G811674845_36.png: B F [666.  492.  779.5 525.5] 0.5477575659751892
+/home/wubw/voc-tire-fbb/trainfiles/train_png/I811608738_11343.png: B F [320.25 367.5  362.75 412.  ] 0.5477156639099121
+/home/wubw/voc-tire-fbb/trainfiles/train_png/G811374400_11325.png: B F [637.  405.5 768.  445. ] 0.547448992729187
+/home/wubw/voc-tire-fbb/trainfiles/train_png/I811289020_17683.png: B F [317.5 111.  337.5 193. ] 0.5473688244819641
+/home/wubw/voc-tire-fbb/trainfiles/train_png/G811441682_16990.png: B F [297.5   217.625 336.25  293.25 ] 0.5471887290477753
+/home/wubw/voc-tire-fbb/trainfiles/train_png/G811314270_15692.png: B F [343.75 293.25 370.   418.  ] 0.547059565782547
+/home/wubw/voc-tire-fbb/trainfiles/train_png/H811523745_13410.png: B F [312.25 347.5  343.75 372.25] 0.5467322170734406
+/home/wubw/voc-tire-fbb/trainfiles/train_png/G811649794_8660.png: B F [700.  711.5 741.  781. ] 0.5460595786571503
+/home/wubw/voc-tire-fbb/trainfiles/train_png/824_20171223_175628_13920.png: B F [126.375 554.    159.375 573.5  ] 0.5460412800312042
+/home/wubw/voc-tire-fbb/trainfiles/train_png/F811133483_16488.png: B F [ 38.34375  59.9375   77.0625  112.125  ] 0.5451099574565887
+/home/wubw/voc-tire-fbb/trainfiles/train_png/81_20180227_113709_5261.png: B F [776.5 843.5 798.5 899.5] 0.5448365211486816
+/home/wubw/voc-tire-fbb/trainfiles/train_png/H811675362_8065.png: B F [325.75 414.5  348.5  446.75] 0.544511467218399
+/home/wubw/voc-tire-fbb/trainfiles/train_png/H811419241_6531.png: B F [632.5  447.   745.   483.25] 0.5443851947784424
+/home/wubw/voc-tire-fbb/trainfiles/train_png/I811455624_8848.png: B F [784.5 522.5 835.5 595.5] 0.5443727076053619
+/home/wubw/voc-tire-fbb/trainfiles/train_png/G811352080_1_8469.png: B F [ 10.28125   0.       41.84375 898.5    ] 0.5442714989185333
+/home/wubw/voc-tire-fbb/trainfiles/train_png/F811675778_3221.png: B F [298.25      14.390625 599.5       96.125   ] 0.5439522862434387
+/home/wubw/voc-tire-fbb/trainfiles/train_png/E811187594_1253.png: B F [302.25      0.      324.       43.96875] 0.5438476800918579
+/home/wubw/voc-tire-fbb/trainfiles/train_png/E811259252_14470.png: B F [167.875 562.5   277.    629.   ] 0.5435170233249664
+/home/wubw/voc-tire-fbb/trainfiles/train_png/G811264087_1472.png: B F [515.5  335.25 565.   408.  ] 0.5431452095508575
+/home/wubw/voc-tire-fbb/trainfiles/train_png/G811623679_13403.png: B F [318.75 352.   364.25 394.  ] 0.5430746972560883
+/home/wubw/voc-tire-fbb/trainfiles/train_png/H811136956_3656.png: B F [306.25   65.375 328.5   138.25 ] 0.542742520570755
+/home/wubw/voc-tire-fbb/trainfiles/train_png/G811308379_1_276.png: B F [325.   648.   382.75 739.  ] 0.5426053404808044
+/home/wubw/voc-tire-fbb/trainfiles/train_png/H811521084_7316.png: B F [298.25  223.375 323.5   260.75 ] 0.5422488451004028
+/home/wubw/voc-tire-fbb/trainfiles/train_png/F811443106_8778.png: B F [297.75 768.5  597.   889.  ] 0.5421068668365479
+/home/wubw/voc-tire-fbb/trainfiles/train_png/G811649046_1_614.png: B F [319.25   125.6875 362.     160.5   ] 0.5418454110622406
+/home/wubw/voc-tire-fbb/trainfiles/train_png/C811315623_5877.png: B F [299.25 151.5  334.5  195.25] 0.5417220890522003
+/home/wubw/voc-tire-fbb/trainfiles/train_png/J811361968_5489.png: B F [307.5   0.  387.5 898. ] 0.5415012240409851
+/home/wubw/voc-tire-fbb/trainfiles/train_png/I811443600_11779.png: B F [694.  387.  818.5 426.5] 0.541411429643631
+/home/wubw/voc-tire-fbb/trainfiles/train_png/C811411825_65.png: B F [535.     83.75  576.5   116.875] 0.5413751900196075
+/home/wubw/voc-tire-fbb/trainfiles/train_png/81_20180317_094612_17041.png: B F [300.75 348.25 597.   445.5 ] 0.5413011610507965
+/home/wubw/voc-tire-fbb/trainfiles/train_png/81_20180221_150843_8707.png: B F [652.5 565.5 700.5 666. ] 0.5404681265354156
+/home/wubw/voc-tire-fbb/trainfiles/train_png/H811466920_460.png: B F [299.25 408.5  351.5  493.75] 0.5404431521892548
+/home/wubw/voc-tire-fbb/trainfiles/train_png/F811371107_10850.png: B F [149.     0.   260.75 899.  ] 0.5403628647327423
+/home/wubw/voc-tire-fbb/trainfiles/train_png/J811151235_65.png: B F [655.5 326.5 752.5 575. ] 0.5401965975761414
+/home/wubw/voc-tire-fbb/trainfiles/train_png/81_20180210_125801_8551.png: B F [551.     73.625 599.5   358.25 ] 0.5401000082492828
+/home/wubw/voc-tire-fbb/trainfiles/train_png/81_20180208_191735_1850.png: B F [299.   518.   342.25 547.  ] 0.5396450161933899
+/home/wubw/voc-tire-fbb/trainfiles/train_png/81_20180227_110852_4933.png: B F [775.5 769.  798.  895.5] 0.539608508348465
+/home/wubw/voc-tire-fbb/trainfiles/train_png/J811275071_4040.png: B F [549.    135.375 567.    300.25 ] 0.5395685732364655
+/home/wubw/voc-tire-fbb/trainfiles/train_png/81_20180222_131836_12882.png: B F [299.5  415.75 341.5  461.5 ] 0.5389290153980255
+/home/wubw/voc-tire-fbb/trainfiles/train_png/81_20180128_024514_12786.png: B F [695.5 740.5 818.5 895. ] 0.538738876581192
+/home/wubw/voc-tire-fbb/trainfiles/train_png/G811508500_2_275.png: B F [304.75 257.75 331.25 311.25] 0.5387174785137177
