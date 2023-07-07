@@ -531,7 +531,7 @@ class TOODHead(ATSSHead):
             # There is no difference in performance for most models. If you
             # find a slight drop in performance, you can set a larger
             # `nms_pre` than before.
-            results = filter_scores_and_topk(
+            results = my_filter_scores_and_topk(
                 scores, cfg.score_thr, nms_pre,
                 dict(bbox_pred=bbox_pred, priors=priors))
             scores, labels, keep_idxs, filtered_results = results
