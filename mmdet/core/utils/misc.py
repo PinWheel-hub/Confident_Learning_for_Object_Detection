@@ -188,7 +188,7 @@ def my_filter_scores_and_topk(scores, score_thr, topk, results=None):
                 The filtered results. The shape of each item is \
                 (num_bboxes_filtered, N).
     """
-    score_thr = 0.0
+    score_thr = 0.01
     my_max = scores.max(dim=-1, keepdim=False)
     my_valid_idxs = my_max[1].unsqueeze(1)
     my_max = my_max[0]
