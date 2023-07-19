@@ -410,7 +410,7 @@ def main():
         else:
             result[msg[idx].split(" ", 1)[0]].append(msg[idx].split(" ", 1)[1])
 
-    with open('clean/my_wrongg.txt', 'w') as f:
+    with open('clean/my_wrong.txt', 'w') as f:
         for key in result:
             f.writelines(key + ': ' + ', '.join(result[key]))
             f.write('\n')
