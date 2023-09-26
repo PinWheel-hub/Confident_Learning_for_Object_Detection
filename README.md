@@ -1,0 +1,2 @@
+# Confident_Learning_for_Object_Detection
+使用置信学习(Confident Learning)清洗目标检测数据集中的噪声标签，基于mmdetection框架
