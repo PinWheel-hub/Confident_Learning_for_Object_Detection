@@ -52,6 +52,7 @@ coverage.xml
 *.pot
 
 # Django stuff:
+tutorial_exps/tf_logs
 *.log
 local_settings.py
 db.sqlite3
