@@ -160,7 +160,7 @@ def analyze_per_img_dets(data,
             for i in rank:
                 if ious[i, j] < tp_iou_thr:
                     break
-                if (scores[i] * scores[i] * ious[i, j] > max_score *  max_score * ious[max_idx, j] and (det_labels[i] == gt_labels[j] or max_label != gt_labels[j])) or (det_labels[i] == gt_labels[j] and max_label != gt_labels[j] and scores[i] > 0.3):
+                if (scores[i] * scores[i] * ious[i, j] > max_score * max_score * ious[max_idx, j] and (det_labels[i] == gt_labels[j] or max_label != gt_labels[j])) or (det_labels[i] == gt_labels[j] and max_label != gt_labels[j] and scores[i] > 0.3):
                     max_idx = i
                     max_score = scores[i]
                     max_prob = det_results[i][4:]
