@@ -5,6 +5,10 @@
 ```
 python clean/clean.py my_configs/tyre_tood_json_config.py clean/result.pkl 
 ```
+`my_configs/tyre_tood_json_config.py`: 目标检测模型配置文件
+
+`clean/result.pkl`: 模型推理结果
+
 ## Acknowledgement
 
 Our code is based on the project [MMDetection](https://github.com/open-mmlab/mmdetection).
