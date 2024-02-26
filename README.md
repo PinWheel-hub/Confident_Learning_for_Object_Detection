@@ -7,7 +7,10 @@ python clean/clean.py my_configs/tyre_tood_json_config.py clean/result.pkl
 ```
 `my_configs/tyre_tood_json_config.py`: 目标检测模型配置文件
 
-`clean/result.pkl`: 模型推理结果
+`clean/result.pkl`: 模型推理结果，在测试中得到，指令如下
+```
+python tools/test.py my_configs/tyre_tood_json_config.py tutorial_exps/latest.pth --eval bbox --out clean/result.pkl
+```
 
 ## Acknowledgement
 
